@@ -1,0 +1,1352 @@
+﻿{
+    "uuid": "3b02c5d0-3871-11ef-af51-e0d55eba17b3",
+    "title": "Generated_TESTN_TOPIK_1_READING",
+    "type": "TOPIK_1_READING",
+    "year": 2024,
+    "problems": [
+        {
+            "uuid": "3b045c60-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 무엇에 대한 내용입니까? <보기>와 같이 알맞은 것을 고르십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_1",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['8월에는 수업이 없습니다. 학교에 가지 않습니다.']\", 'answers': ['날짜', '방학', '여행', '약속'], 'selected': 2}",
+            "questions": [
+                {
+                    "uuid": "3b05f35e-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "[['호텔 방이 깨끗해.   조식이 정말 맛있어.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b078a0c-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "교통"
+                        },
+                        {
+                            "uuid": "3b091f70-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "여행"
+                        },
+                        {
+                            "uuid": "3b0ab510-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "숙박"
+                        },
+                        {
+                            "uuid": "3b0c4bc8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "식사"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b0ddfba-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['눈이 하얗게 내린다.   눈사람을 함께 만들자.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b0f7622-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "겨울"
+                        },
+                        {
+                            "uuid": "3b110b68-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "여름"
+                        },
+                        {
+                            "uuid": "3b12a0b8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "봄"
+                        },
+                        {
+                            "uuid": "3b1435fe-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "가을"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b15cb80-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['그들은 친구입니다.우리는 동료입니다.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b1761f2-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "관계"
+                        },
+                        {
+                            "uuid": "3b18f5a8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "소통"
+                        },
+                        {
+                            "uuid": "3b1a8486-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "인연"
+                        },
+                        {
+                            "uuid": "3b1c19ea-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "감정"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3b1db02a-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ <보기>와 같이 (  )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_1",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['한국어가 어렵습니다. 친구( )물어봅니다.']\", 'answers': ['의', '를', '에게', '에서'], 'selected': 3}",
+            "questions": [
+                {
+                    "uuid": "3b1f4700-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 3,
+                    "example": "[['(   )이 그리워요.   고향 친구를 만났어요.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b20dd86-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "출생지"
+                        },
+                        {
+                            "uuid": "3b227330-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "고국"
+                        },
+                        {
+                            "uuid": "3b240894-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "고향"
+                        },
+                        {
+                            "uuid": "3b259dee-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "본향"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b2732da-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 2,
+                    "example": "[['(   )가 정말 재미있다.   그 영화는 대단하다.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b28c942-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "다큐멘터리"
+                        },
+                        {
+                            "uuid": "3b2a5ece-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "영화"
+                        },
+                        {
+                            "uuid": "3b2bf360-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "애니메이션"
+                        },
+                        {
+                            "uuid": "3b2d82b6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "드라마"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b2f1806-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['모래성 무너졌다.   모래사장이 (   ).']]",
+                    "answers": [
+                        {
+                            "uuid": "3b30ac84-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "넓다"
+                        },
+                        {
+                            "uuid": "3b3241e8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "크다"
+                        },
+                        {
+                            "uuid": "3b33d74c-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "방대하다"
+                        },
+                        {
+                            "uuid": "3b3564fe-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "광활하다"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b36f6ac-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "[['할인 쿠폰을 (   ).   지금 바로 할인 중입니다.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b38897c-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "드리세요"
+                        },
+                        {
+                            "uuid": "3b3a1bca-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "수령하세요"
+                        },
+                        {
+                            "uuid": "3b3bb03e-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "가져가세요"
+                        },
+                        {
+                            "uuid": "3b3d4476-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "받으세요"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b3ed8ea-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['건물(   ) 매우 높습니다.   건물은 튼튼하게 지어졌습니다.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b406e4e-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "은"
+                        },
+                        {
+                            "uuid": "3b420308-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "가"
+                        },
+                        {
+                            "uuid": "3b4397d6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "이"
+                        },
+                        {
+                            "uuid": "3b452d94-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "는"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b46c348-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "[['비행기(   ) 이륙합니다. 창밖을 보세요.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b485776-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "이"
+                        },
+                        {
+                            "uuid": "3b49ecda-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "은"
+                        },
+                        {
+                            "uuid": "3b4b83a6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "는"
+                        },
+                        {
+                            "uuid": "3b4d1838-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "가"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3b4ea89c-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 맞지 않는 것을 고르십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_2",
+            "EType": "TEXT",
+            "example": "{'conversation': 'None', 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3b50369e-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 1,
+                    "example": "https://topikkorea.s3.amazonaws.com/topik_image/7c716923-23ef-11ef-a75e-e5a43cd400fd.png",
+                    "answers": [
+                        {
+                            "uuid": "3b51c1c6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "2022년 8월 20일까지 유효합니다."
+                        },
+                        {
+                            "uuid": "3b5350a4-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "유통기한은 까지입니다."
+                        },
+                        {
+                            "uuid": "3b54e3ec-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "가격은 1,000원입니다."
+                        },
+                        {
+                            "uuid": "3b566f0a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "딸기 우유입니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b57faaa-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 2,
+                    "example": "https://topikkorea.s3.amazonaws.com/topik_image/85cd0950-23ef-11ef-8e01-e5a43cd400fd.png",
+                    "answers": [
+                        {
+                            "uuid": "3b5986c2-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "불고기 김밥 단돈 1,500원."
+                        },
+                        {
+                            "uuid": "3b5b12c6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "불고기 김밥은 2023년 12월 31일까지 1,500원입니다."
+                        },
+                        {
+                            "uuid": "3b5c9ea2-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "불고기 김밥, 천오백 원에 드려요. 2023년 11월 30일까지."
+                        },
+                        {
+                            "uuid": "3b5e2a92-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "2023년 11월 30일까지만 1,500원."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b5fb6c8-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 4,
+                    "example": "https://topikkorea.s3.amazonaws.com/topik_image/31e8b2ea-23ef-11ef-a3f7-e5a43cd400fd.png",
+                    "answers": [
+                        {
+                            "uuid": "3b6148e4-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "한국 노래를 배우고 싶으시면 금요일 오후 2~4시에 3층 309호 교실로 오세요!"
+                        },
+                        {
+                            "uuid": "3b62ddbc-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "외국인을 위한 한국 노래 모임에 참여하여 한국 친구들을 사귀어 보세요!"
+                        },
+                        {
+                            "uuid": "3b646bfa-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "한국 노래에 관심이 있으신가요? 그렇다면 금요일 오후 2~4시에 우리 모임에 오세요!"
+                        },
+                        {
+                            "uuid": "3b65ff24-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "이 모임은 화요일에 열립니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3b6793a2-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 내용이 같은 것을 고르십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_3",
+            "EType": "TEXT",
+            "example": "{'conversation': 'None', 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3b6922ee-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 2,
+                    "example": "[['저는 여행을 할 때마다 카메라를 꼭 챙겨요. 새로운 장소를 발견하면 사진을 찍어서 소중한 추억으로 남기고 싶어요. 친구들과 함께 있는 순간도 카메라로 담아서 나중에 다시 보며 웃음짓곤 해요.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b6ab226-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "친구들과 함께 있는 순간을 카메라 대신 노트에 메모해요."
+                        },
+                        {
+                            "uuid": "3b6c4000-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "여행 중에는 카메라를 사용하지 않는다"
+                        },
+                        {
+                            "uuid": "3b6dce66-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "나중에 다시 보며 웃음짓는 대신 울음짓고 싶어요."
+                        },
+                        {
+                            "uuid": "3b6f5d08-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "새로운 장소를 발견하면 사진 대신 그림을 그려서 추억으로 남기고 싶어요."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b70f14a-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 1,
+                    "example": "[['시간은 가장 소중한 자원 중 하나입니다. 시간을 효율적으로 관리하고 계획을 세우는 것은 성공적인 삶을 살기 위해 필수적입니다. 시간을 낭비하지 않고 소중히 여기면서, 지금 이 순간을 최대한 활용하는 것이 중요합니다.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b728582-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "시간을 효율적으로 관리하고 계획을 세우는 것은 성공적인 삶을 살기 위해 선택사항입니다"
+                        },
+                        {
+                            "uuid": "3b7412c6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "시간을 관리하는 데 도움이 되는 앱을 사용하는 것이 좋습니다."
+                        },
+                        {
+                            "uuid": "3b75a258-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "시간을 효율적으로 관리하기 위해 매일 10시에 일어나는 것이 좋습니다."
+                        },
+                        {
+                            "uuid": "3b77306e-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "시간을 낭비하지 않기 위해 하루에 10시간씩 공부하는 것이 좋습니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b78bf10-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "[['신발은 일상생활에서 필수적인 아이템으로, 보호와 편안함을 제공해줍니다. 다양한 디자인과 재질로 제작된 신발은 운동, 산책, 출근 등 다양한 활동에 활용됩니다. 신발을 잘 선택하고 관리하면 발에 무리를 덜 줄 수 있고, 건강한 보행을 유지할 수 있습니다.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b7a4ef2-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "신발을 입지 않고 맨발로 다니는 것이 가장 건강에 좋다."
+                        },
+                        {
+                            "uuid": "3b7be2d0-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "다양한 디자인과 재질로 제작된 신발은 운동, 산책, 출근 등 다양한 활동에 활용됩니다"
+                        },
+                        {
+                            "uuid": "3b7d70fa-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "신발을 관리할 때는 물에 담가 세탁하는 것이 좋다."
+                        },
+                        {
+                            "uuid": "3b7f0604-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "신발을 선택할 때는 누가 만든지 확인하는 것이 중요하다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3b809b0e-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 중심 내용을 고르십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_4",
+            "EType": "TEXT",
+            "example": "{'conversation': 'None', 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3b823040-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 1,
+                    "example": "[['코끼리는 아프리카에서 발견되는 대형 동물로, 그들은 긴 코와 큰 귀로 유명합니다. 아이들은 코끼리를 보고 싶어하는데, 동물원에서 코끼리를 만나러 가는 것이 좋은 아이디어일 것 같아요.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b83c54a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "코끼리는 아프리카에서 발견되는 대형 동물입니다."
+                        },
+                        {
+                            "uuid": "3b855a4a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "코끼리는 긴 코와 큰 귀로 유명합니다."
+                        },
+                        {
+                            "uuid": "3b86ef72-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "아이들은 코끼리를 보고 싶어합니다."
+                        },
+                        {
+                            "uuid": "3b8882c4-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "동물원에서 코끼리를 만나러 가는 것이 좋은 아이디어입니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b8a101c-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 4,
+                    "example": "[['저는 쇼핑을 하러 백화점에 갔는데, 예쁜 셔츠를 한 벌 발견했습니다. 그래서 그 셔츠를 사고 싶은데, 색상을 고르는 데 시간이 좀 걸릴 것 같습니다.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b8ba0ee-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 쇼핑을 하러 백화점에 갔습니다."
+                        },
+                        {
+                            "uuid": "3b8d2fb8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 셔츠를 사러 백화점에 갔습니다."
+                        },
+                        {
+                            "uuid": "3b8ec378-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 색상을 고르는 것이 어렵습니다."
+                        },
+                        {
+                            "uuid": "3b905224-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 예쁜 셔츠를 발견했습니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3b91e620-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "[['지식은 무한한 보물이며, 새로운 것을 배우고 성장하는 과정에서 즐거움을 느낄 수 있습니다.']]",
+                    "answers": [
+                        {
+                            "uuid": "3b937a62-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "지식은 한정된 것이며, 새로운 것을 배우는 것은 지루한 일입니다."
+                        },
+                        {
+                            "uuid": "3b950c4c-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "지식은 무한한 보물이며, 새로운 것을 배우는 것은 즐거운 과정입니다."
+                        },
+                        {
+                            "uuid": "3b96a016-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "지식은 무의미한 것이며, 새로운 것을 배우는 것은 힘든 일입니다."
+                        },
+                        {
+                            "uuid": "3b983566-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "지식은 무한한 보물이며, 새로운 것을 배우는 것은 지루한 과정입니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3b99ca84-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_5",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['군복은 군인들이 훈련이나 전투 시 착용하는 전용 의복( ㉠ ). 군복은 군인들에게 안전과 보호를 제공하는 역할을 합니다. 또한, 군복은 군인들의 신원을 나타내는 중요한 상징이기도 합니다. 그러나 군복의 디자인과 소재는 각 나라나 군대마다 다를 수 있습니다. 따라서, 군인들은 항상 적합한 군복을 착용하여 임무를 수행해야 합니다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3b9b5f70-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "( ㉠ )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3b9cf5d8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "입니다"
+                        },
+                        {
+                            "uuid": "3b9e83a8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "이다"
+                        },
+                        {
+                            "uuid": "3ba01394-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "이며"
+                        },
+                        {
+                            "uuid": "3ba1a344-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "인가"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3ba33196-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "<보기>의 내용과 맞는 것을 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3ba4c7b8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "군복의 역할과 중요성"
+                        },
+                        {
+                            "uuid": "3ba65aec-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "군복의 디자인과 소재"
+                        },
+                        {
+                            "uuid": "3ba7e9b6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "군복의 역사"
+                        },
+                        {
+                            "uuid": "3ba97f38-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "군복의 착용 방법"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3bab0d12-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_5",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['책을 읽는 것은 제 취향 중 하나입니다. 매일 저녁 잠들기 전에 책 한 권을 꼭 읽습니다. 주로 소설이나 자기계발 서적을 즐겨 읽습니다. 책을 읽으면서 새로운 지식을 얻는 즐거움을 느낍니다. 가끔은 주말에 도서관이나 서점에 가서 하루 종일 책을 읽기도 ( ㉠ ).']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3baca65e-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "( ㉠ )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3bae3686-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "합니다"
+                        },
+                        {
+                            "uuid": "3bafccb2-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "합니다만"
+                        },
+                        {
+                            "uuid": "3bb15e7e-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "합니다만에"
+                        },
+                        {
+                            "uuid": "3bb2f3b0-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "합니다만도"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3bb48798-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "<보기>의 내용과 맞는 것을 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3bb61dd8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 매일 아침 책을 읽습니다."
+                        },
+                        {
+                            "uuid": "3bb7b350-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 주로 소설이나 자기계발 서적을 읽습니다."
+                        },
+                        {
+                            "uuid": "3bb947ec-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 책을 읽는 것을 싫어합니다."
+                        },
+                        {
+                            "uuid": "3bbad6de-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 주말에 도서관에 가지 않습니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3bbc6698-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_5",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['에어컨은 실내 온도를 조절( ㉠ ) 쾌적한 환경을 유지하는 가전제품입니다. 에어컨은 더운 여름철에는 시원한 바람을, 추운 겨울철에는 따뜻한 바람을 제공하여 계절에 상관없이 사용됩니다. 에어컨은 먼지나 습기를 제거하여 공기를 깨끗하고 건강하게 유지해줍니다. 에어컨은 현대 사회에서 필수적인 가전제품으로, 생활 편의성을 높여주는 역할을 합니다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3bbdf648-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "( ㉠ )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3bbf8616-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "합니다"
+                        },
+                        {
+                            "uuid": "3bc11468-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "합니다만"
+                        },
+                        {
+                            "uuid": "3bc2a0a8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "합니다라"
+                        },
+                        {
+                            "uuid": "3bc42c16-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "합니다서"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3bc5b7a2-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "<보기>의 내용과 맞는 것을 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 3,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3bc7445a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "에어컨의 역사"
+                        },
+                        {
+                            "uuid": "3bc8cf1e-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "에어컨의 발명가"
+                        },
+                        {
+                            "uuid": "3bca61da-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "에어컨의 기능과 사용법"
+                        },
+                        {
+                            "uuid": "3bcbeffa-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "에어컨의 가격"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3bcd839c-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_5",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['달력은 시간을 표현하고 일정을 관리하는 도구로 사용됩니다. 달력은 일, 주, 월, 년 등 다양한 시간 단위를 표시하여 시간의 흐름을 파악할 수 있도록 도와줍니다. 달력을 통해 중요한 일정을 계획하고 일상 생활을 조직화할 수 있습니다. 달력은 과거와 미래의 일정을 한눈에 볼 수 있어 효율적인 시간 관리를 돕는 역할을 ( ㉠ ).']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3bcf14dc-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "( ㉠ )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3bd0a8d8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "합니다"
+                        },
+                        {
+                            "uuid": "3bd23748-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "방해합니다"
+                        },
+                        {
+                            "uuid": "3bd3cab8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "무시합니다"
+                        },
+                        {
+                            "uuid": "3bd55e0a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "혼란스럽게 합니다"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3bd6eeaa-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "<보기>의 내용과 맞는 것을 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3bd88544-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "달력의 정의와 기능"
+                        },
+                        {
+                            "uuid": "3bda19ea-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "달력의 역사"
+                        },
+                        {
+                            "uuid": "3bdbade6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "달력을 사용하는 방법"
+                        },
+                        {
+                            "uuid": "3bdd4386-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "달력의 디자인 요소"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3bdeda0c-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 순서에 맞게 배열한 것을 고르십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_6",
+            "EType": "TEXT",
+            "example": "{'conversation': 'None', 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3be07128-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "[['(다) 영화관에서는 큰 화면과 시끄러운 소리 때문에 더욱 무서워질 것 같지만, 그래도 함께 보면 두려움이 조금은 가라앉을 것 같습니다. (나) 그래서 친구들과 함께 영화를 보러 가기로 했습니다. (가) 영화가 끝나고 집에 돌아가면, 어둠 속에서 무서운 소리가 들리는 것 같아서 빨리 침대에 들어가고 싶을 것 같습니다. (라) 공포영화를 보면 밤에 홀로 집에 있는 것이 두려워집니다.']]",
+                    "answers": [
+                        {
+                            "uuid": "3be20844-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(라) - (가) - (나) - (다)"
+                        },
+                        {
+                            "uuid": "3be39da8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(라) - (나) - (다) - (가)"
+                        },
+                        {
+                            "uuid": "3be53316-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(가) - (나) - (라) - (다)"
+                        },
+                        {
+                            "uuid": "3be6c87a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(라) - (다) - (가) - (나)"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3be85c26-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 1,
+                    "example": "[['(나) 쇼핑을 즐기는 사람들은 쇼핑백 대신 가방을 들고 다니기도 해요. (다) 학생들은 가방에 책과 필기도구를 담아 학교에 가요. (라) 가방은 일상생활에서 필수품입니다. (가) 여행가는 사람들은 여행용 가방에 필요한 물품을 싸요.']]",
+                    "answers": [
+                        {
+                            "uuid": "3be9f3ba-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(라) - (다) - (가) - (나)"
+                        },
+                        {
+                            "uuid": "3beb868a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(라) - (가) - (다) - (나)"
+                        },
+                        {
+                            "uuid": "3bed1a18-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(라) - (다) - (나) - (가)"
+                        },
+                        {
+                            "uuid": "3beea748-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(가) - (나) - (라) - (다)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3bf03b6c-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_7",
+            "EType": "IMAGE",
+            "example": "https://topikkorea.s3.amazonaws.com/topik_image/331acd0d-23ef-11ef-b005-e5a43cd400fd.png",
+            "questions": [
+                {
+                    "uuid": "3bf1cea0-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "이 글을 쓴 의도와 가장 가까운 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3bf36300-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "음악회를 계획하려고"
+                        },
+                        {
+                            "uuid": "3bf4f878-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "음악회에 초대하려고"
+                        },
+                        {
+                            "uuid": "3bf68ddc-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "음악회 참석을 확인하려고"
+                        },
+                        {
+                            "uuid": "3bf820fc-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "음악회 참석에 감사하려고"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3bf9b4e4-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "이 글의 내용과 같은 것을 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 4,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3bfb4d86-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "음악회는 세 시 삼십 분에 시작할 겁니다."
+                        },
+                        {
+                            "uuid": "3bfce2d6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "유학생들이 한국 전통 음악을 연주할 겁니다."
+                        },
+                        {
+                            "uuid": "3bfe788a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "음악을 공부하는 학생들을 위한 음악회입니다."
+                        },
+                        {
+                            "uuid": "3c000de4-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "음악회를 한 후에 다 함께 저녁을 먹을 겁니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3c01a41a-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_8",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['저는 작업을 통해 스트레스를 해소하고 창의적으로 생각할 수 있습니다. (㉠) 작업을 하면서 새로운 아이디어를 떠올리고 문제를 해결하는 데 도움이 됩니다. (㉡) 작업을 통해 자신의 능력을 발휘하고 성취감을 느낄 수 있습니다. (㉢) 작업을 통해 협업과 소통능력을 향상시키며, 팀원들과의 협력을 통해 더 나은 결과물을 만들어냅니다. (㉣) 작업을 통해 성장하고 발전하는 과정에서 즐거움을 느끼며, 끊임없이 도전하고 발전하는 모습을 보여주고 싶습니다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3c033cb2-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "[[' 작업을 통해 자기계발을 이루고 새로운 기술을 배우며 더 나은 전문가가 되기 위해 노력합니다.']]",
+                    "answers": [
+                        {
+                            "uuid": "3c04d324-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉠"
+                        },
+                        {
+                            "uuid": "3c0668a6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉡"
+                        },
+                        {
+                            "uuid": "3c07fd74-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉢"
+                        },
+                        {
+                            "uuid": "3c0992ce-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉣"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3c0b2864-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "윗글의 내용과 같은 것을 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3c0cb7e2-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "작업을 통해 스트레스를 해소하고 창의적으로 생각할 수 있습니다."
+                        },
+                        {
+                            "uuid": "3c0e4bca-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "작업을 통해 협업과 소통능력을 향상시키며, 팀원들과의 협력을 통해 더 나은 결과물을 만들어냅니다."
+                        },
+                        {
+                            "uuid": "3c0fda9e-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "작업을 통해 성취감을 느끼는 일에 전혀 관심이 없습니다."
+                        },
+                        {
+                            "uuid": "3c116ea4-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "작업을 통해 새로운 기술을 배우는 일에 흥미가 없습니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3c13044e-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_8",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['친절한 행동은 상대방에게 긍정적인 영향을 줄 수 있습니다. 친절한 말 한마디로 상대방의 기분을 바꿀 수도 있습니다. 친절한 사람은 주변 사람들로부터 좋은 평가를 받을 확률이 높습니다. 친절한 태도는 서로간의 관계를 ( ㉠ ) 있습니다. 친절한 행동은 주변 환경을 밝고 따뜻하게 만들어 줄 수 있습니다. 친절한 사람은 자신에게도 긍정적인 에너지를 전달할 수 있습니다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3c149b92-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "㉠ 에 들어갈 알맞은 말을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3c1631a0-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "개선하는 데 큰 도움이 될 수"
+                        },
+                        {
+                            "uuid": "3c17c6f0-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "악화시키는 데 큰 역할을 할 수"
+                        },
+                        {
+                            "uuid": "3c195c5e-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "무시하는 데 중요한 역할을 할 수"
+                        },
+                        {
+                            "uuid": "3c1aef7e-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "방해하는 데 큰 영향을 미칠 수"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3c1c8546-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "이 글의 내용과 같은 것을 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3c1e19f6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "친절한 행동은 상대방에게 부정적인 영향을 줄 수 있습니다."
+                        },
+                        {
+                            "uuid": "3c1faf50-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "친절한 말 한마디로 상대방의 기분을 바꿀 수도 있습니다."
+                        },
+                        {
+                            "uuid": "3c214504-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "친절한 사람은 주변 사람들로부터 나쁜 평가를 받을 확률이 높습니다."
+                        },
+                        {
+                            "uuid": "3c22d086-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "친절한 태도는 서로간의 관계를 악화시킬 수 있습니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3c246400-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_8",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['학교에서는 항상 펜을 챙겨야 했습니다. 수업 시간에 필기를 하거나 과제를 쓸 때 펜이 필요했기 때문이죠. 그래서 펜을 잃어버리면 친구들에게 빌리거나 ( ㉠ ). 가끔은 특별한 펜으로 과제를 쓰는 것이 즐거웠습니다. 특히 색감이 아름다운 펜을 사용하면 공부하는 기분이 더 좋았죠. 지금은 일상에서도 펜은 필수품이 되었는데, 여전히 색다른 펜을 찾아 구매하는 것을 취미로 즐기고 있습니다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3c25f91e-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "㉠ 에 들어갈 알맞은 말을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3c278db0-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "선생님께 혼나기도 했습니다."
+                        },
+                        {
+                            "uuid": "3c292206-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "선생님께 칭찬을 받았습니다."
+                        },
+                        {
+                            "uuid": "3c2ab74c-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "선생님께 도움을 요청했습니다."
+                        },
+                        {
+                            "uuid": "3c2c4bb6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "선생님께 질문을 했습니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3c2ddf3a-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "이 글의 내용과 같은 것을 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 3,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3c2f755c-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 학교에서 펜을 잃어버리면 친구들에게 빌리거나 선생님께 혼나기도 했습니다."
+                        },
+                        {
+                            "uuid": "3c310aac-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 학교에서 펜을 잃어버리면 친구들에게 빌리거나 선생님께 칭찬을 받았습니다."
+                        },
+                        {
+                            "uuid": "3c32999e-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 학교에서 펜을 잃어버리면 친구들에게 빌리거나 선생님께 도움을 요청했습니다."
+                        },
+                        {
+                            "uuid": "3c342d72-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저는 학교에서 펜을 잃어버리면 친구들에게 빌리거나 선생님께 질문을 했습니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3c35c31c-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_8",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['글을 쓸 때 가장 중요한 것은 문장 구성입니다. 문장이 명확하고 간결하게 전달되어야만 독자들이 이해할 수 있습니다. ( ㉠ ) 완성해 나가는 것이 중요합니다. 문장을 잘 다듬고 꾸미는 것은 글쓰기의 기본이라고 할 수 있습니다. 문장을 잘 다듬는다면 독자들도 쉽게 이해할 수 있을 것입니다. 문장을 쓰는 것은 어렵지만, 연습을 통해 능숙해질 수 있습니다. 함께 문장을 연습하며 더 나은 글쓰기 실력을 키워보는 것은 어떨까요?']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3c375a6a-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "㉠ 에 들어갈 알맞은 말을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3c38f1b8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "따라서 문장을 체계적으로"
+                        },
+                        {
+                            "uuid": "3c3a8758-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "반면에 문장을 무작위로"
+                        },
+                        {
+                            "uuid": "3c3c1cf8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "예를 들어 문장을 복잡하게"
+                        },
+                        {
+                            "uuid": "3c3db298-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "그럼에도 불구하고 문장을 무시하고"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3c3f47fc-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "이 글의 내용과 같은 것을 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3c40de5a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "문장을 잘 다듬고 꾸미는 것은 글쓰기의 기본이라고 할 수 있습니다."
+                        },
+                        {
+                            "uuid": "3c42730a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "문장을 무작위로 작성하는 것이 글쓰기의 기본이라고 할 수 있습니다."
+                        },
+                        {
+                            "uuid": "3c440882-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "문장을 복잡하게 만드는 것이 글쓰기의 기본이라고 할 수 있습니다."
+                        },
+                        {
+                            "uuid": "3c459b48-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "문장을 무시하고 작성하는 것이 글쓰기의 기본이라고 할 수 있습니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "3c472fb2-3871-11ef-af51-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_1_PROBLEM_TYPE_8",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['컴퓨터는 현대 사회에서 필수적인 도구로 자리 잡았습니다. 업무나 공부, 또는 놀이까지 다양한 용도로 사용되며 우리의 삶을 편리하게 만들어 줍니다. 컴퓨터를 사용하면 정보를 쉽게 얻을 수 있고, 소통이 원활해집니다. 하지만 과도한 사용은 눈과 몸에 부담을 줄 수 있으니 적절한 휴식이 필요합니다. 컴퓨터를 잘 다루기 위해서는 보안에 대한 지식도 ( ㉠ ) 점들을 알고 있어야 합니다. 컴퓨터는 우리 삶을 편리하게 해주지만, 올바른 사용법을 알고 적절히 활용하는 것이 중요합니다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "3c48c73c-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "㉠ 에 들어갈 알맞은 말을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3c4a598a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "필요하고 다양한 보안 위협에 대비하는"
+                        },
+                        {
+                            "uuid": "3c4bed18-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "필요하지 않은 보안 소프트웨어를 설치하는"
+                        },
+                        {
+                            "uuid": "3c4d81e6-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "필요하지 않은 프로그램을 삭제하는"
+                        },
+                        {
+                            "uuid": "3c4f1740-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "필요하지 않은 파일을 다운로드하는"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "3c50ac90-3871-11ef-af51-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "이 글의 내용과 같은 것을 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 3,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "3c52428a-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "컴퓨터는 현대 사회에서 불필요한 도구로 자리 잡았습니다."
+                        },
+                        {
+                            "uuid": "3c53d7f8-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "컴퓨터를 사용하면 정보를 어렵게 얻을 수 있습니다."
+                        },
+                        {
+                            "uuid": "3c556d48-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "컴퓨터를 잘 다루기 위해서는 보안에 대한 지식도 필요합니다."
+                        },
+                        {
+                            "uuid": "3c570310-3871-11ef-af51-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "컴퓨터는 우리 삶을 불편하게 만들어 줍니다."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
