@@ -1,0 +1,50 @@
+server:
+  port: 7777
+
+spring:
+  application:
+    name: TopikKorea
+  datasource:
+    url: jdbc:postgresql://localhost:5432/topik
+    username: kimbeomsoo
+    password: 1027
+  sql:
+    init:
+      mode: always
+      continue-on-error: true
+      schema-locations: classpath:sql/schema.sql
+  servlet:
+    multipart:
+      max-file-size: 150MB
+      max-request-size: 150MB
+  security:
+    jwt:
+      secret-key: testtesttesttesttesttesttesttesttesttesttest
+      expire-length: 36000000
+      master-key: ${MASTER_KEY}
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: ${CLIENT_ID}
+            client-secret: ${CLIENT_SECRET}
+            redirect-uri: ${REDIRECT_URI}
+            authorization-grant-type: authorization_code
+            scope:
+              - email
+              - profile
+  jpa:
+    hibernate:
+      dialect: org.hibernate.dialect.PostgreSQL10Dialect
+      ddl-auto: update
+      format_sql: true
+      show-sql: true
+  profiles:
+    include: aws
+
+url:
+  access-token: https://oauth2.googleapis.com/token
+  profile: https://www.googleapis.com/userinfo/v2/me
+
+master:
+  id: ${MASTER_ID}
