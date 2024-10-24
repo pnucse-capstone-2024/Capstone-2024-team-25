@@ -1,0 +1,21 @@
+SET TIME ZONE 'Asia/Seoul';
+
+\i 'problem/problem/problem.sql'
+\i 'problem/answer/answer.sql'
+\i 'problem/question/question.sql'
+\i 'exam/exam.sql'
+\i 'exam/exam_problem.sql'
+\i 'member/member.sql'
+\i 'member/member_analyze.sql'
+\i 'center/center.sql'
+\i 'center/center_offer.sql'
+\i 'gather/gather.sql'
+\i 'gather/gather_offer.sql'
+\i 'exam/gather_exam.sql'
+\i 'exam/member_exam.sql'
+\i 'write/problem/problem.sql'
+\i 'write/question/question.sql'
+\i 'write/answer/answer.sql'
+\i 'credit/credit.sql'
+\i 'file/file.sql'
+

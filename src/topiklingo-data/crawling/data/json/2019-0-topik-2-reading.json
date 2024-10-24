@@ -1,0 +1,1670 @@
+﻿{
+    "uuid": "5e3ecd54-5900-11ef-85a5-dc97ba88075b",
+    "title": "2019_0_TOPIK_2_READING",
+    "type": "TOPIK_2_READING",
+    "year": 2019,
+    "problems": [
+        {
+            "uuid": "5e4057cd-5900-11ef-8fc8-dc97ba88075b",
+            "problem": "※ ( )에 들어갈 가장 알맞은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_1",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5e41f292-5900-11ef-be73-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 나는 주말에는 보통 영화를 ( ) 운동을 한다.",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5e438ed3-5900-11ef-b6f3-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "보지만"
+                        },
+                        {
+                            "uuid": "5e451eb4-5900-11ef-8c64-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "보거나"
+                        },
+                        {
+                            "uuid": "5e46a9bc-5900-11ef-9099-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "보려고"
+                        },
+                        {
+                            "uuid": "5e484476-5900-11ef-9189-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "보더니"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5e49e41f-5900-11ef-8ffb-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 동생이 점점 아버지를 ( ).",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5e4b730e-5900-11ef-b30d-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "닮아 간다"
+                        },
+                        {
+                            "uuid": "5e4d030b-5900-11ef-a899-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "닮기도 한다"
+                        },
+                        {
+                            "uuid": "5e4e939b-5900-11ef-b101-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "닮았나 보다"
+                        },
+                        {
+                            "uuid": "5e502da8-5900-11ef-990c-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "닮은 적이 없다"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5e5236ba-5900-11ef-b5ae-dc97ba88075b",
+            "problem": "※ 다음 밑줄 친 부분과 의미가 비슷한 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_2",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5e53d751-5900-11ef-8057-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 정부는 일자리를 <ins>늘리고자</ins> 새로운 정책을 수립했다.",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5e55734f-5900-11ef-b0cf-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "늘리자마자"
+                        },
+                        {
+                            "uuid": "5e570218-5900-11ef-b0e1-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "늘리더라도"
+                        },
+                        {
+                            "uuid": "5e58a06b-5900-11ef-acc9-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "늘리는 대신"
+                        },
+                        {
+                            "uuid": "5e5a2c8e-5900-11ef-bb80-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "늘리기 위해"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5e5bc0d6-5900-11ef-8a80-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 태어난 지 얼마 안 되어 서울로 왔으니 서울이 <ins>고향인 셈이다</ins>.",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5e5d58e5-5900-11ef-befd-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "고향일 뿐이다"
+                        },
+                        {
+                            "uuid": "5e5eeb70-5900-11ef-a25e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "고향이면 좋겠다"
+                        },
+                        {
+                            "uuid": "5e608618-5900-11ef-8226-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "고향일 리가 없다"
+                        },
+                        {
+                            "uuid": "5e62218a-5900-11ef-84b8-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "고향이나 마찬가지이다"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5e641098-5900-11ef-abea-dc97ba88075b",
+            "problem": "※ 다음은 무엇에 대한 글인지 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_3",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5e65ac27-5900-11ef-a0fb-dc97ba88075b",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5e68ad77-5900-11ef-aa38-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "에어컨"
+                        },
+                        {
+                            "uuid": "5e6a4add-5900-11ef-a453-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "청소기"
+                        },
+                        {
+                            "uuid": "5e6bd6b3-5900-11ef-bae8-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "냉장고"
+                        },
+                        {
+                            "uuid": "5e6d625a-5900-11ef-be75-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "세탁기"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5e6efdbf-5900-11ef-9cfc-dc97ba88075b",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5e72a0d5-5900-11ef-a639-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "병원"
+                        },
+                        {
+                            "uuid": "5e743073-5900-11ef-b77f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "은행"
+                        },
+                        {
+                            "uuid": "5e75cc6e-5900-11ef-89e6-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여행사"
+                        },
+                        {
+                            "uuid": "5e77681c-5900-11ef-bcaa-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "체육관"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5e790252-5900-11ef-8a37-dc97ba88075b",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5e7bd539-5900-11ef-b176-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "건강 관리"
+                        },
+                        {
+                            "uuid": "5e7d7076-5900-11ef-9bf8-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "화재 예방"
+                        },
+                        {
+                            "uuid": "5e7efd82-5900-11ef-98bb-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "이웃 사랑"
+                        },
+                        {
+                            "uuid": "5e808b32-5900-11ef-9197-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "환경 보호"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5e821b4e-5900-11ef-bd50-dc97ba88075b",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5e85601e-5900-11ef-83eb-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "이용 안내"
+                        },
+                        {
+                            "uuid": "5e86fc46-5900-11ef-87c8-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "구입 문의"
+                        },
+                        {
+                            "uuid": "5e888c99-5900-11ef-86a0-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "사용 순서"
+                        },
+                        {
+                            "uuid": "5e8a2203-5900-11ef-98b4-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "교환 방법"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5e8bef82-5900-11ef-b92d-dc97ba88075b",
+            "problem": "※ 다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_4",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5e8d8bcd-5900-11ef-a50a-dc97ba88075b",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5e90f775-5900-11ef-8b41-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "이 대회는 이번에 처음으로 열린다."
+                        },
+                        {
+                            "uuid": "5e9293ea-5900-11ef-a816-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "이 대회에는 누구나 참가할 수 있다."
+                        },
+                        {
+                            "uuid": "5e941f22-5900-11ef-aa09-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "이 대회에 참가하려면 돈을 내야 한다."
+                        },
+                        {
+                            "uuid": "5e95bcb3-5900-11ef-8e42-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "이 대회의 출발 장소는 인주기념관이다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5e975b1e-5900-11ef-8ba3-dc97ba88075b",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5e9a2ae0-5900-11ef-ac1b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "1위 순위의 직업이 바뀌었다."
+                        },
+                        {
+                            "uuid": "5e9bbe4a-5900-11ef-8d7f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "공무원은 순위의 변화가 없었다."
+                        },
+                        {
+                            "uuid": "5e9d4b17-5900-11ef-b015-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "군인이 새롭게 5위 안에 들었다."
+                        },
+                        {
+                            "uuid": "5e9ed9a2-5900-11ef-b9c2-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "간호사는 4위로 순위가 떨어졌다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5ea076fb-5900-11ef-89f6-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "[['지난 24일에 ‘제7회 소비자 선정 최고 브랜드 대상’ 시상식이 인주신문사', '대강당에서 개최됐다. 이 상은 소비자의 온라인 투표로 수상 브랜드가', '선정되어 의미가 크다. 지난해와 같이 100개 브랜드가 상을 받았는데 올해는', '처음으로 친환경 화장품 브랜드 두 개가 포함되었다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5ea21350-5900-11ef-8e4a-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "소비자가 수상 브랜드를 선정했다."
+                        },
+                        {
+                            "uuid": "5ea3a368-5900-11ef-8630-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "기업들이 직접 온라인 투표에 참여했다."
+                        },
+                        {
+                            "uuid": "5ea54030-5900-11ef-a59e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "지난해보다 더 많은 브랜드가 선정됐다."
+                        },
+                        {
+                            "uuid": "5ea6dadf-5900-11ef-9569-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "친환경 화장품 브랜드는 상을 못 받았다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5ea875a5-5900-11ef-a830-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "[['최근 한 나라에서 4,400년 전에 만들어진 무덤이 발견됐다. 이 무덤의', '주인은 당시 왕으로 밝혀졌으며 무덤 벽에는 고대 문자와 다양한 색의', '그림이 가득했다. 이 무덤은 오랜 시간이 지났지만 색이 거의 그대로 보존', '되어 있어 역사적 가치가 높다고 전문가들은 전했다. 무덤의 일부는 일반인', '에게도 곧 공개될 예정이다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5eaa0ff2-5900-11ef-8912-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "무덤의 주인이 누구인지 찾고 있다."
+                        },
+                        {
+                            "uuid": "5eaba270-5900-11ef-baf9-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "무덤 안을 구경하는 사람들이 많아졌다."
+                        },
+                        {
+                            "uuid": "5ead3d15-5900-11ef-b9db-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "무덤 안의 그림은 색의 상태가 좋은 편이다."
+                        },
+                        {
+                            "uuid": "5eaecd36-5900-11ef-9c45-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "무덤 바닥에서 다양한 문자와 그림이 발견됐다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5eb0bc64-5900-11ef-bd0f-dc97ba88075b",
+            "problem": "※ 다음을 순서대로 맞게 배열한 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_5",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5eb262db-5900-11ef-b9f1-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "[['（가） 회사의 1층 로비를 외부인에게 개방하는 회사가 많아졌다.', '（나） 사람들은 작품을 감상하고 커피를 마시면서 시간을 보낸다.', '（다） 미술관과 카페를 만들어 사람들이 와서 즐길 수 있게 한 것이다.', '（라） 이 공간을 이용하는 사람이 늘면서 회사의 이미지도 좋아지고 있다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5eb3f82e-5900-11ef-925e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（가）-（다）-（나）-（라）"
+                        },
+                        {
+                            "uuid": "5eb5831e-5900-11ef-9623-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（나）-（라）-（다）-（가）"
+                        },
+                        {
+                            "uuid": "5eb7213b-5900-11ef-9bcf-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（다）-（나）-（라）-（가）"
+                        },
+                        {
+                            "uuid": "5eb8bbe9-5900-11ef-9943-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（라）-（나）-（가）-（다）"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5eba590b-5900-11ef-bc7e-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "[['（가） 차에서 내려 앞차의 주인에게 사과하고 사정을 설명했다.', '（나） 앞차 주인은 큰 사고가 아니니 괜찮다며 그냥 가라고 했다.', '（다） 친절한 배려 덕분에 딸은 무사히 병원에 도착해 치료를 받았다.', '（라） 아픈 딸을 병원으로 급하게 데려가다가 앞차와 부딪쳐서 사고를 냈다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5ebbee9b-5900-11ef-a25b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（나） - （가） - （다） - （라）"
+                        },
+                        {
+                            "uuid": "5ebd7f5b-5900-11ef-b3df-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（나） - （가） - （라） - （다）"
+                        },
+                        {
+                            "uuid": "5ebf1e8d-5900-11ef-9658-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（라） - （가） - （나） - （다）"
+                        },
+                        {
+                            "uuid": "5ec0b97f-5900-11ef-a55f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（라） - （가） - （다） - （나）"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5ec25af9-5900-11ef-8abe-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "[['（가） 선택에 대한 부담으로 구매를 망설이다가 포기하기도 한다.', '（나） 선택에 대한 고객의 부담을 줄여 구매를 유도하려는 것이다.', '（다） 그래서 마트에서는 품목별로 몇 가지의 제품만 매장에 진열한다.', '（라） 소비자는 선택의 폭이 넓을수록 물건을 고를 때 어려움을 겪는다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5ec3ee08-5900-11ef-944a-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（나）-（가）-（라）-（다）"
+                        },
+                        {
+                            "uuid": "5ec57940-5900-11ef-b6ec-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（나）-（라）-（가）-（다）"
+                        },
+                        {
+                            "uuid": "5ec713e8-5900-11ef-ac5c-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（라）-（가）-（다）-（나）"
+                        },
+                        {
+                            "uuid": "5ec8ae99-5900-11ef-ab8e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "（라）-（다）-（가）-（나）"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5eca678a-5900-11ef-bbeb-dc97ba88075b",
+            "problem": "※ 다음을 읽고 ( )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_6",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5ecc1aeb-5900-11ef-b5c9-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "[['상담을 통해 책을 추천해 주는 서점이 있어 화제가 되고 있다. 서점', '주인은 손님과 오랜 시간 대화를 나눈 후 ( ) 책을 추천해', '준다. 상처 받은 사람에게는 위로가 되는 책을，자신감이 부족한 사람에게는', '용기를 주는 책을 추천하는 방식으로 서비스를 제공한다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5ecdb61a-5900-11ef-978b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "내용이 재미있는"
+                        },
+                        {
+                            "uuid": "5ecf50aa-5900-11ef-a889-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "지식을 전달하는"
+                        },
+                        {
+                            "uuid": "5ed0e115-5900-11ef-9443-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "사람들이 많이 읽는"
+                        },
+                        {
+                            "uuid": "5ed26e0f-5900-11ef-be9f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "손님의 상황에 맞는"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5ed40b6f-5900-11ef-92ce-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "[['샌드위치나 샐러드 등은 오래 보관할 수 없어 신선할 때 팔아야 한다.', '이런 식품을 영업 마감 시간을 앞두고 사람들에게 할인된 가격으로 판매', '하는 서비스가 큰 호응을 얻고 있다. 음식점은 남은 음식을 팔아 수익을', '얻을 수 있고，소비자는 ( ) 이용자들의 만족도가 높다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5ed5a764-5900-11ef-b98b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "자원을 아낄 수 있어서"
+                        },
+                        {
+                            "uuid": "5ed73567-5900-11ef-8d68-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "식품을 저렴하게 살 수 있어서"
+                        },
+                        {
+                            "uuid": "5ed8c299-5900-11ef-a2b7-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "요리법을 배울 수 있기 때문에"
+                        },
+                        {
+                            "uuid": "5eda56bf-5900-11ef-b952-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "음식을 선택할 수 있기 때문에"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5edbeae4-5900-11ef-8529-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "[['뮤지컬은 보통 한 역할에 여러 명의 배우들이 출연한다. 배우에 따라', '연기나 분위기가 다르기 때문에 같은 작품이라도 색다른 느낌을 받을 수', '있다. 그래서 뮤지컬 팬들은 (  ) 작품을 즐기기 위해 공연을', '반복해서 관람한다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5edd86bb-5900-11ef-a923-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "입장료를 할인해 주는"
+                        },
+                        {
+                            "uuid": "5edf16bd-5900-11ef-93b6-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "공연장에서 인기가 있는"
+                        },
+                        {
+                            "uuid": "5ee0b17c-5900-11ef-bf84-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "유행하는 노래가 나오는"
+                        },
+                        {
+                            "uuid": "5ee24d38-5900-11ef-ad43-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "각 배우들의 개성이 담긴"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5ee40d13-5900-11ef-8f61-dc97ba88075b",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_7",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['해파리는 몸의 95%가 물로 구성되어 있어 열량이 낮다. 그래서 해파리를먹고 사는 동물이 거의 없다고 알려져 있었다. 하지만 새나 팽귄，뱀장어 등 많은 동물들에게 해파리는 좋은 먹잇감이다. 해파리에는 비타민이나 콜라겐 같은 영양 성분이 있기 때문이다. (  ) 해파리는 바다 어디에나있고 도망치지 않아 사냥하기 쉽기 때문이다.']\", 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5ee5a990-5900-11ef-bd84-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " ( )에 들어갈 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5ee736bd-5900-11ef-ad75-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "과연"
+                        },
+                        {
+                            "uuid": "5ee8c5f0-5900-11ef-bfcf-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "만약"
+                        },
+                        {
+                            "uuid": "5eea60b0-5900-11ef-acb4-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "게다가"
+                        },
+                        {
+                            "uuid": "5eebfb61-5900-11ef-a028-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "이처럼"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5eed962d-5900-11ef-aacc-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 위 글의 내용과 같은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5eef2a3e-5900-11ef-b0bc-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "해파리는 바다 생태계에 피해를 준다."
+                        },
+                        {
+                            "uuid": "5ef0b8b1-5900-11ef-9306-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "해파리는 잡기 어려운 먹이 자원이다."
+                        },
+                        {
+                            "uuid": "5ef248f5-5900-11ef-894d-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "해파리는 여러 동물의 먹이가 되고 있다."
+                        },
+                        {
+                            "uuid": "5ef3e3bb-5900-11ef-b5e8-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "해파리는 대부분 콜라겐으로 이루어져 있다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5ef59c65-5900-11ef-a438-dc97ba88075b",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_7",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['내비게이션은 목적지까지 길을 안내해 주는 기기이다. 내비게이션이없이 낯선 곳에 갔다가 길을 못 찾아 (  ) 본 적이 있는사람이라면 내비게이션이 얼마나 편리한지 느꼈을 것이다. 그러나 우리의 뇌는 스스로 정보를 찾았을 때 그 정보를 오래 기억하는 특성이 있다.따라서 지나치게 디지털 기기에만 의존하다 보면 정보를 찾고 기억하는 능력이 점점 줄어들어 결국 그 능력을 사용할 수 없게 될지도 모른다.']\", 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5ef73719-5900-11ef-8f7c-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " ( )에 들어갈 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5ef8d4af-5900-11ef-bb27-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "앞뒤를 재어"
+                        },
+                        {
+                            "uuid": "5efa6f81-5900-11ef-8d5f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "진땀을 흘려"
+                        },
+                        {
+                            "uuid": "5efc03b4-5900-11ef-aa67-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "발목을 잡아"
+                        },
+                        {
+                            "uuid": "5efd8e85-5900-11ef-91b6-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "귀를 기울여"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5eff1fbf-5900-11ef-83ed-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 위 글의 중심 생각을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5f00b23d-5900-11ef-b936-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "디지털 기기는 편리한 생활을 위해 필요하다."
+                        },
+                        {
+                            "uuid": "5f023dd8-5900-11ef-a81d-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "운전자에게 내비게이션은 활용도가 매우 높다."
+                        },
+                        {
+                            "uuid": "5f03d8f2-5900-11ef-818e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "스스로 정보를 찾고 기억하려는 노력을 해야 한다."
+                        },
+                        {
+                            "uuid": "5f057a81-5900-11ef-ba68-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "내비게이션을 잘 활용하면 기억력 향상에 도움이 된다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5f07501f-5900-11ef-8b7d-dc97ba88075b",
+            "problem": "※ 다음 글을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_8",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['놀이공원 매표소에서 아르바이트를 했다. 아르바이트가 처음이라 실수를 하지 않으려고 늘 긴장하면서 일을 했다. 어느 날，놀러 온 한 가족에게 인원수만큼 표를 줬다. 그런데 그 가족을 보내고 나서 이용권 한 장의 값이 더 결제된 것을 알아차렸다. 바로 카드사로 전화해 고객의 전화번호를 물었지만 상담원은 알려 줄 수 없다고 했다. 하지만 내 연락처를 고객에게 전달해 주겠다고 했다. 일을 하는 내내 일이 손에 잡히지 않았다. 퇴근시간 무렵 드디어 그 가족에게서 전화가 왔다. 내가 한 실수에 <ins>화를 낼지도 모른다는 생각에</ins> 떨리는 목소리로 상황을 설명하자 그 가족은 “놀이 기구를 타고 노느라 문자 메시지가 온 줄 몰랐어요. 많이 기다렸겠어요.”라고 하며 따뜻하게 말해 주었다.']\", 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5f08ebb8-5900-11ef-a823-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 밑줄 부분에 나타난 ‘나’의 심정으로 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5f0a7a22-5900-11ef-90a7-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "걱정스럽다"
+                        },
+                        {
+                            "uuid": "5f0c0bc4-5900-11ef-bf95-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "불만스럽다"
+                        },
+                        {
+                            "uuid": "5f0d9db7-5900-11ef-95ca-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "후회스럽다"
+                        },
+                        {
+                            "uuid": "5f0f2ad8-5900-11ef-81fc-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "당황스럽다"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f10c9ba-5900-11ef-af47-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 위 글의 내용과 같은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5f125ea8-5900-11ef-af15-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "그 가족은 나에게 화를 냈다."
+                        },
+                        {
+                            "uuid": "5f13ebbc-5900-11ef-86cc-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "카드 회사는 그 가족에게 연락을 했다."
+                        },
+                        {
+                            "uuid": "5f1586a2-5900-11ef-86ab-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "나는 그 가족에게 직접 전화를 걸었다."
+                        },
+                        {
+                            "uuid": "5f172157-5900-11ef-a0ad-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "나는 그 가족을 찾아다니느라 일을 못 했다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5f18f4cb-5900-11ef-a99f-dc97ba88075b",
+            "problem": "※ 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_9",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5f1a8f68-5900-11ef-b9c0-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "[['관광버스 추락，안전벨트로 승객 전원 목숨 건져']]",
+                    "answers": [
+                        {
+                            "uuid": "5f1c25b6-5900-11ef-bf14-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "관광버스가 추락했지만 승객들이 안전벨트 덕분에 모두 살았다."
+                        },
+                        {
+                            "uuid": "5f1dafdf-5900-11ef-8e27-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "관광버스 추락 사고 이후 안전벨트를 하는 승객이 더 많아졌다."
+                        },
+                        {
+                            "uuid": "5f1f4c0f-5900-11ef-a41a-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "관광버스가 추락하자 일부 승객이 안전벨트를 풀고 탈출하였다."
+                        },
+                        {
+                            "uuid": "5f20e5c9-5900-11ef-a51e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "관광버스가 추락하면서 안전벨트를 한 일부 승객이 크게 다쳤다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f22828e-5900-11ef-9433-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "[['침묵 깬 김민수 의원，대통령 선거 출마설 부인']]",
+                    "answers": [
+                        {
+                            "uuid": "5f2412e7-5900-11ef-92fd-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "김 의원이 대통령 선거에 나가느냐는 질문에 계속 답하지 않고 있다."
+                        },
+                        {
+                            "uuid": "5f25a5a8-5900-11ef-936a-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "김 의원이 마음을 바꾸어 대통령 선거에 나가겠다고 최종 발표하였다."
+                        },
+                        {
+                            "uuid": "5f274036-5900-11ef-9337-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "김 의원이 대통령 선거에 나간다고 선언하자 사람들이 열렬히 환영했다."
+                        },
+                        {
+                            "uuid": "5f28d449-5900-11ef-bdc1-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "김 의원이 대통령 선거에 나간다는 것이 사실이 아니라고 입장을 밝혔다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f2a7000-5900-11ef-bedf-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "[['민간 우주선 무사 귀환，우주여행 시대 ‘성큼’']]",
+                    "answers": [
+                        {
+                            "uuid": "5f2c0d6e-5900-11ef-8144-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "사람들의 응원 속에 민간 우주선이 긴 우주여행을 마치고 돌아왔다."
+                        },
+                        {
+                            "uuid": "5f2dac5d-5900-11ef-8eb0-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "사람들은 민간 우주선이 우주여행에서 무사히 돌아오기를 기대했다."
+                        },
+                        {
+                            "uuid": "5f2f49d6-5900-11ef-b4c8-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "민간 우주선이 무사히 돌아오면서 우주여행의 가능성이 더욱 높아졌다."
+                        },
+                        {
+                            "uuid": "5f30e61b-5900-11ef-8898-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "민간 우주선이 돌아오지 않자 우주여행에 대한 우려의 목소리가 커졌다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5f329b6d-5900-11ef-8d7f-dc97ba88075b",
+            "problem": "※ 다음을 읽고 ( )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_6",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5f3433d9-5900-11ef-b1ab-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "[['새해에 세운 목표를 효과적으로 이루려면 한 주 단위로 계획을 세우는', '것이 좋다. 주마다 계획을 세우면 ( )때문이다. ‘건강한', \"식습관 기르기’라는 새해 결심이 한 주 단위가 되면 ‘라면 안 먹기’，'채소\", '챙겨 먹기’처럼 구체적인 계획으로 바뀐다. 이렇게 하면 작은 목표를 달성', '하는 횟수가 늘어 한 해의 목표에 가까워진다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f35c33a-5900-11ef-bc26-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "한 해의 목표를 확인하기"
+                        },
+                        {
+                            "uuid": "5f375019-5900-11ef-9277-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "계획을 세우는 데 집중하기"
+                        },
+                        {
+                            "uuid": "5f38e5ed-5900-11ef-84d4-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "자신의 능력을 보여 줄 수 있기"
+                        },
+                        {
+                            "uuid": "5f3a80d0-5900-11ef-b2e7-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "실천 가능한 계획을 세울 수 있기"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f3c1b87-5900-11ef-8d0f-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "[['무지개는 빛이 공기중의 물방울을 통과할 때 굴절되어 나타나는', '현상이다. 그래서 비가 그친 직후 해가 뜰 때 무지개가 잘 생긴다. 이때', '(  ) 않으면 무지개가 만들어지기 어렵다. 공기에 먼지 등의', '오염 물질이 섞이면 물방울들이 먼지 주위로 모여 빛이 통과하는 것을', '막기 때문이다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f3db3cd-5900-11ef-b92f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "해가 뜨지"
+                        },
+                        {
+                            "uuid": "5f3f3fdf-5900-11ef-a15b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "비가 그치지"
+                        },
+                        {
+                            "uuid": "5f40dc09-5900-11ef-a15b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "빛이 약하지"
+                        },
+                        {
+                            "uuid": "5f4270e0-5900-11ef-9b0d-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "공기가 깨끗하지"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f441030-5900-11ef-b57b-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "[['취재 경계선은 취재가 과열되어 발생할 수 있는 불상사를 예방하기', '위해 설정한 것이다. 수백 명의 취재진이 화제의 인물에게 몰려들 경우', '사고가 발생해 취재를 망칠 수 있다. 그래서 선을 그어 놓고 그 바깥에서', '취재하자는 합의를 본 것이다. 비록 법으로 정해져 있지 않지만 언론계가', '이 선을 지키려고 노력하는 것은 (  ) 순간 원활한 보도가', '어려워진다는 것을 누구보다 잘 알고 있기 때문이다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f459e7f-5900-11ef-97fc-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "취재 정보를 공유하는"
+                        },
+                        {
+                            "uuid": "5f473aea-5900-11ef-a3d4-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "취재 경계선이 무너지는"
+                        },
+                        {
+                            "uuid": "5f48d3db-5900-11ef-9c6d-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "취재 내용을 잘못 해석하는"
+                        },
+                        {
+                            "uuid": "5f4a70ec-5900-11ef-9982-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "취재 경계선이 새로 설정되는"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f4c0a3a-5900-11ef-8dfd-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "[['병원의 규모에 따라 개인이 부담해야 하는 약값을 달리하는 제도가', '생겼다. 감기와 같이 비교적 가벼운 병에 걸렸을 때 종합병원에서 진료를', '받으면 (  ) 만든 것이다. 같은 약을 동네 의원에서 받은', '처방전으로 사게 되면 약값이 더 적게 나온다. 이 제도를 통해 환자들이', '진료에 대한 신뢰 때문에 종합병원으로만 몰리는 현상을 줄일 수 있을', '것으로 예상된다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f4da657-5900-11ef-886b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "환자가 약값을 조금 더 내게"
+                        },
+                        {
+                            "uuid": "5f4f30c3-5900-11ef-b2f5-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "개인이 약값을 비교할 수 있게"
+                        },
+                        {
+                            "uuid": "5f50cb7f-5900-11ef-9140-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "병원에서 병원비를 올리지 못하게"
+                        },
+                        {
+                            "uuid": "5f526647-5900-11ef-969f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "병원비의 일부를 병원에서 지원하게"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5f5419d7-5900-11ef-8a1d-dc97ba88075b",
+            "problem": "※ 다음을 읽고 내용이 같은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_10",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5f55bb56-5900-11ef-a183-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "[['나비 박사 석주명은 나비의 종류를 분류하고 이름을 지어 준 생물학자', '이다. 1931년부터 나비를 연구한 그는 한국의 나비가 총 844종이라는 당시의', '분류를 248종으로 수정하였다. 날개 무늬나 모양이 조금만 달라도 다른', '종이라고 판단한 기존의 분류가 틀렸음을 배추흰나비 16만여 마리의 무늬를', '비교해서 밝혔다. 또한 그때까지 한자어나 외래어로 명명된 나비에 ‘떠들썩', '팔랑나비’와 같은 고유어 이름을 지어 주는 데 앞장섰다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f5746bf-5900-11ef-9126-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "석주명은 한국의 나비를 총 844종으로 분류하였다."
+                        },
+                        {
+                            "uuid": "5f58e1cb-5900-11ef-a99d-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "석주명은 나비 이름을 고유어로 바꾸려고 노력하였다."
+                        },
+                        {
+                            "uuid": "5f5a72f9-5900-11ef-9a7c-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "석주명은 자신의 배추흰나비 연구에 문제가 있음을 알았다."
+                        },
+                        {
+                            "uuid": "5f5c0e72-5900-11ef-92f6-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "석주명은 나비의 날개 모양이 다르면 종이 달라짐을 밝혔다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f5d9f30-5900-11ef-8408-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "[['저축의 방식을 가로 저축과 세로 저축으로 나눠 비유하여 설명할 수', '있다. 차량 구입이나 주택 마련과 같이 특정 목적을 위해 한 통장에 집중하여', '저축하는 것이 세로 저축이다. 반면 장기적으로 다양한 목적에 따라 자금을', '여러 통장에 분산하여 저축하는 것을 가로 저축이라고 한다. 단기적으로', '빨리 목돈을 만들고 싶다면 세로 저축을，은퇴 후의 생활까지 고려한다면', '가로 저축을 선택하는 것이 좋다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f5f4dc3-5900-11ef-b739-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "노후 준비에는 세로 저축이 유리하다."
+                        },
+                        {
+                            "uuid": "5f60db1d-5900-11ef-8dae-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "세로 저축보다 가로 저축을 하는 것이 더 좋다."
+                        },
+                        {
+                            "uuid": "5f627478-5900-11ef-b488-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "저축의 목적이 다양하면 가로 저축이 유용하다."
+                        },
+                        {
+                            "uuid": "5f63fe96-5900-11ef-8bb4-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "가로 저축은 단기적인 계획이 있을 때 효율적이다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f65994b-5900-11ef-b7da-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "[[\"'책가도’는 책장과 책을 중심으로 하여 각종 문방구 등을 그린 그림이다.\", '학문을 중요시하는 왕의 바람과 출세를 원하는 양반의 마음이 더해져', '책가도는 궁중과 사대부를 중심으로 발전하였다. 19세기에는 상인과 농민', '계층으로도 확산되면서 그 형식도 자유로워졌다. 그림에서 책장 대신 작은', '탁자가 활용되기도 하고 일상 용품이 함께 그려지기도 했다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f673439-5900-11ef-8627-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "왕은 책가도에 대해 부정적 인식이 강했다."
+                        },
+                        {
+                            "uuid": "5f68cc49-5900-11ef-80f7-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "점차 다양한 계층에서 책가도를 즐기게 되었다."
+                        },
+                        {
+                            "uuid": "5f6a6706-5900-11ef-8e0b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "초기의 책가도에는 일상 용품이 주로 그려졌다."
+                        },
+                        {
+                            "uuid": "5f6c044e-5900-11ef-8465-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "책가도는 왕의 바람으로 그림의 형식이 바뀌었다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5f6dd836-5900-11ef-b617-dc97ba88075b",
+            "problem": "※ 다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_11",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5f6f752c-5900-11ef-9930-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "[['문화재 복원 작업은 복원된 부분이 자연스러워야 하고 그 과정에서', '문화재가 추가로 손상되지 않아야 한다. 이 때문에 정확한 측정으로 복원할', '부분을 원래 모습과 동일하게 만들어 내는 것은 복원의 성공을 결정하는', '중요한 요건이다. 최근 3D 스캐너와 프린터가 등장하여 이러한 요건을', '충족할 수 있게 되면서 정밀하고 안전한 문화재 복원이 가능해졌다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f710036-5900-11ef-83ee-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "첨단 장비 덕분에 문화재 복원이 수월해졌다."
+                        },
+                        {
+                            "uuid": "5f729527-5900-11ef-9130-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "문화재는 손상 예방을 위한 사전 관리가 중요하다."
+                        },
+                        {
+                            "uuid": "5f742045-5900-11ef-bb95-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "복원 환경 탓에 원본이 변형되는 경우가 많아지고 있다."
+                        },
+                        {
+                            "uuid": "5f75b9ca-5900-11ef-893a-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "복원 기술자를 대상으로 한 3D 장치 사용 교육이 필요하다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f774ebd-5900-11ef-9bd6-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "[['아기는 주변 사물을 손으로 더듬고 만지면서 지각 능력을 발달시킨다.', '그런데 이렇게 능동적인 경험뿐만 아니라 사람，햇빛，바람 등에 의한 접촉도', '주요한 촉각 경험이 된다. 그중 주변 인물과의 피부 접촉은 사랑，유대감，', '신뢰감 등 유아의 정서 발달과 사회성 발달에 매우 중요하다. 연구에 따르면', '아기가 태어난 후 몇 년 사이에 이루어진 피부 접촉은 정서 발달에 필수적인', '호르몬 분비를 촉진할 뿐만 아니라 지능 발달에도 영향을 미친다고 한다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f78da82-5900-11ef-ac18-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "인간은 촉각을 통해 주변 사물을 이해한다."
+                        },
+                        {
+                            "uuid": "5f7a74ca-5900-11ef-a871-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "정서 발달과 지능 발달은 상관관계가 높다."
+                        },
+                        {
+                            "uuid": "5f7c0fd6-5900-11ef-a1e7-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "촉각 경험의 중요성에 대한 연구가 필요하다."
+                        },
+                        {
+                            "uuid": "5f7d9cb6-5900-11ef-bfa1-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "유아의 발달을 위해서는 피부 접촉이 중요하다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f7f37c8-5900-11ef-ba22-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "[['나무에 붙어 자라는 버섯을 보면 나무로부터 양분을 받으며 별다른 노력', '없이 살아간다고 생각하기 쉽다. 하지만 버섯은 나무에게 없어서는 안 될', '중요한 존재이다. 나무들은 위기 상황이 발생해도 자리를 옮겨 이를 알릴', '수 없기 때문에 뿌리로 소통하며 위험에 대비한다. 이때 뿌리가 짧아 서로', '닿지 않는 나무들 사이에서는 실처럼 뻗은 버섯 균사체가 메시지 전달을', '대신한다. 그래서 학자들은 버섯 균류를 ‘숲의 통신망’이라고 부른다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f80c742-5900-11ef-a262-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "버섯은 다른 식물이 있어야 자랄 수 있다."
+                        },
+                        {
+                            "uuid": "5f826087-5900-11ef-850b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "나무의 뿌리가 숲에서 하는 기능은 다양하다."
+                        },
+                        {
+                            "uuid": "5f83eac8-5900-11ef-b6c5-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "버섯은 숲에서 나무들의 정보 교환을 돕는 역할을 한다."
+                        },
+                        {
+                            "uuid": "5f858573-5900-11ef-842f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "나무의 생활환경에 대한 학자들의 관심이 높아지고 있다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f871876-5900-11ef-b5c8-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "[['음주 운전으로 인명 피해를 낸 사람에 대한 처벌 강화 법안이 국회에서', '통과되었다. 하지만 새 법안은 원래 안건보다 처벌의 강도를 낮춘 것이라는', '점에서 반쪽짜리 법안에 불과하다. 이 법안에 따르면 여전히 음주 운전', '가해자의 처벌이 미뤄지거나 일정 기간이 지난 후 효력이 없어질 수도', '있다. 이는 음주 운전에 대한 경각심을 높이고 재발 위험성을 낮추려던', '본래의 취지에는 맞지 않는 것이다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f88a8d6-5900-11ef-8fe1-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "법안이 가진 본래의 취지를 널리 알려야 한다."
+                        },
+                        {
+                            "uuid": "5f8a36e0-5900-11ef-96e2-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "피해 정도에 따라 처벌의 수위를 조절해야 한다."
+                        },
+                        {
+                            "uuid": "5f8bcc5b-5900-11ef-ad63-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "새 법안의 통과가 더 이상 미루어져서는 안 된다."
+                        },
+                        {
+                            "uuid": "5f8d624f-5900-11ef-97ed-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "새 법안은 실질적 효과를 거두는 데 미흡한 점이 있다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5f8f1a9f-5900-11ef-9f3b-dc97ba88075b",
+            "problem": "※ 다음 글에서 <보기>의 문장이 들어가기에 가장 알맞은 곳을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_12",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5f90ac2e-5900-11ef-867b-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "[['왕관은 과거 지배 계층이 착용했던 대표적인 장신구이다.( ㉠ ) 장식도', '화려하게 더해져 그것을 쓴 왕의 지위를 더욱 돋보이게 했다. ( ㉡ )', '오늘날 왕관이 가졌던 힘과 지위의 의미는 약화되었으나 고귀한 이미지는', '남아 여러 디자인에서 발견된다. ( ㉢ ) 아름다움이 강조되어야 할 신부의', '머리 장식이나 여러 액세서리에 왕관이 활용되고 있는 것이다. ( ㉣ )', '<보기>', '그래서 백성들이 구하기 힘든 매우 귀하고 값비싼 재료로 만들어졌다.'], ['<보기>', '그래서 백성들이 구하기 힘든 매우 귀하고 값비싼 재료로 만들어졌다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f9246e2-5900-11ef-9f7f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉠"
+                        },
+                        {
+                            "uuid": "5f93d35a-5900-11ef-9a09-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉡"
+                        },
+                        {
+                            "uuid": "5f956c17-5900-11ef-a46c-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉢"
+                        },
+                        {
+                            "uuid": "5f970893-5900-11ef-aae9-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉣"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5f989b81-5900-11ef-a03f-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "[['멸종 위기에 처한 동물을 보호하려는 노력이 계속되고 있으나 주된 연구와', '지원이 몇몇 동물에 쓸리고 있어 문제가 되고 있다.( ㉠ ) 한 조사에', '따르면 동물 보호 기금의 모금 액수도 북극곰，판다같이 인기 있는 동물들', '에게 편중되었다고 한다. ( ㉡ ) 이런 가운데 그간 관심을 받지 못했던', '동물들을 보호하기 위한 단체가 등장했다. ( ㉢ ) 이러한 노력은 동물', '보호를 위한 마음에도 편견이 깃들어 있었음을 일깨우고 있다. ( ㉣ )', '<보기>', '그들은 못생기고 혐오감을 준다는 이유만으로 외면당한 동물들을 대중에게', '알리는 활동을 한다.'], ['<보기>', '그들은 못생기고 혐오감을 준다는 이유만으로 외면당한 동물들을 대중에게', '알리는 활동을 한다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5f9a27d0-5900-11ef-a7b5-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉠"
+                        },
+                        {
+                            "uuid": "5f9bbe6c-5900-11ef-b6a4-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉡"
+                        },
+                        {
+                            "uuid": "5f9d5299-5900-11ef-8e61-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉢"
+                        },
+                        {
+                            "uuid": "5f9eed70-5900-11ef-9c54-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉣"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5fa08be8-5900-11ef-920e-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "[['‘젊은 작가상’을 수상한 최은영이 두 번째 소설집『내게 무해한 사람』을', '펴냈다. ( ㉠ ) 2년여에 걸쳐 여러 지면에 발표했던 작품들을 한 권에', '모은 것이다. ( ㉡ ) 그들처럼 누군가에 대한 배반，원치 않았던 이별 등', '매듭짓지 못한 일들을 다시 떠올린다는 것은 괴로운 과정일 것이다.', '( ㉢ ) 그러나 작가는 이미 지나간 시간에 대해 후회할 필요는 없으며', '상처도 힘이 될 수 있다는 메시지로 독자의 마음을 움직인다. ( ㉣ )', '<보기>', '일곱 편의 단편에는 오해와 잘못으로 멀어진 사람들에 대한 이야기가', '담겨 있다.'], ['<보기>', '일곱 편의 단편에는 오해와 잘못으로 멀어진 사람들에 대한 이야기가', '담겨 있다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5fa215eb-5900-11ef-ab5a-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉠"
+                        },
+                        {
+                            "uuid": "5fa3b2b9-5900-11ef-b1f1-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉡"
+                        },
+                        {
+                            "uuid": "5fa53e79-5900-11ef-97e5-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉢"
+                        },
+                        {
+                            "uuid": "5fa6d926-5900-11ef-9ecc-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉣"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5fa89b99-5900-11ef-bc53-dc97ba88075b",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_13",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['그때 소희네는 이사를 앞두고 있었는데 엄마는 그렇게 집을 나가 돌아 오지 않았다. 작별 인사는커녕 아무 신호도 낌새도 없이 휙 사라졌다. （중략） 엄마가 집 나가고 열흘쯤 지났을 땐가，소희가 텔레비전을 보고 있는데 본회가 현관에서 신을 신으며 잠깐 나갔다 오겠다고 했다.“잠깐 어디?” “친구네.” “친구 누구?” 소희가 눈을 맞추려 했지만 본희는 돌아보지 않았다.“늦으면 친구네서 자고 올지도 몰라. 기다리지 말고 자.” 돌아서 나가는 본희가 멘 가방이 이상하게 커 보여 소희는 자리에서 벌떡 일어났다. 가만히 서 있다가 갑자기 현관문을 열고 맨발로 뛰어나가 계단을 올라가는 본희 뒷모습에 대고 외쳤다.“언니야，올 거지?” 본희는 멈춰 섰지만 돌아보지 않았다. <ins>소희는 묻고 또 물었다.</ins>（중략） 한참 있다가，몇 년은 지난 거 같은데 몇 시간쯤밖에 안 지난 한밤중에언니가 문자를 했다. 소희는 언니가 올 때까지 휴대 전화를 손에 꼭 쥐고 문자를 보고 또 보았다. 그러지 않으면 문자가 감쪽같이 날아갈 것 같았다. 삼겹살 사가지고 가께. 라면 끓여먹지 말고 기다려.']\", 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5faa302a-5900-11ef-aea3-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 밑줄 친 부분에 나타난 '소희'의 심정으로 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5fabbf72-5900-11ef-a1f5-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "불안하다"
+                        },
+                        {
+                            "uuid": "5fad4c6e-5900-11ef-909c-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "흡족하다"
+                        },
+                        {
+                            "uuid": "5faee0c4-5900-11ef-a753-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "실망스럽다"
+                        },
+                        {
+                            "uuid": "5fb07b71-5900-11ef-b12e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "감격스럽다"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5fb21636-5900-11ef-9add-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 위 글의 내용과 같은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5fb3b0f9-5900-11ef-a9b4-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "본희는 밤늦게 소희에게 연락을 줬다."
+                        },
+                        {
+                            "uuid": "5fb54f96-5900-11ef-a86b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "엄마는 이사하는 날에 집으로 돌아왔다."
+                        },
+                        {
+                            "uuid": "5fb6dbb3-5900-11ef-bd35-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "본희는 소희를 데리고 친구 집에 놀러 갔다."
+                        },
+                        {
+                            "uuid": "5fb8786c-5900-11ef-b919-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "소희는 엄마를 기다리며 휴대 전화를 놓지 못했다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5fba5299-5900-11ef-a15c-dc97ba88075b",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_14",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['성대하고 까다로운 제사 준비 탓에 유교 예법을 비판하는 사람들이 많다. 하지만 현재 우리가 지키고 있는 예법은 (  ) 잘못된예법이 전해져 온 것이다. 유교 전문가들은 제사든 차례든 조상을 공경하는 마음과 자손들의 화목이 중요하다고 말한다. 선조들은 제사를 드릴 때 좋은 음식을 많이 준비하는 것보다 그 음식을 준비하는 마음과 정성을 중시했던 것이다. 유서 깊은 집안에서는 이러한 제사의 본질을 제대로 이해하여 상차림은 간소하게 하되 집안사람들이 모두 모여 함께 제사를 드리는 경우가 많다. 형식보다 정성이 중요하다는 유교의 가르침을 지키고 있는 것이다.']\", 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5fbbed64-5900-11ef-a632-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 위 글의 주제로 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5fbd881c-5900-11ef-b690-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "조상을 모시는 제사상 차림은 점차 간소화되고 있다."
+                        },
+                        {
+                            "uuid": "5fbf1c9e-5900-11ef-bdff-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "유교 문화는 후손들에 의해 유동적으로 변화되고 있다."
+                        },
+                        {
+                            "uuid": "5fc0ae07-5900-11ef-b7dc-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "명절에 제사를 드리는 전통은 예법에 맞게 유지되고 있다."
+                        },
+                        {
+                            "uuid": "5fc247b9-5900-11ef-9b93-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "유교 예법에서 중요한 것은 정성을 다해 예를 갖추는 것이다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5fc3e296-5900-11ef-b92e-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " ( )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5fc57d91-5900-11ef-9c3b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "상차림이 간소화된"
+                        },
+                        {
+                            "uuid": "5fc70fce-5900-11ef-8fe7-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "후손들의 바람이 반영된"
+                        },
+                        {
+                            "uuid": "5fc89afd-5900-11ef-8d6e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "유교의 본뜻을 살리지 못한"
+                        },
+                        {
+                            "uuid": "5fca35f6-5900-11ef-9c9e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "현실에 맞게 축소되지 않은"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5fcc2131-5900-11ef-b9b9-dc97ba88075b",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_15",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['1인 미디어 시대가 되면서 개인 방송을 이용한 새로운 시장 형태가 등장해 주목받고 있다. 이 시장은 SNS를 통해 제품이 유통되고 판매된다는 특징이 있 다 . ( ㉠ ) 대표적인 판매 방식은 1인 미디어 운영자가 방송 중에 특정 물건을 의도적으로 노출하여 구매를 유도하는 것이다. 이때 관심이 생긴 시청자는 그 운영자에게서 물건을 산다. ( ㉡ ) SNS 계정만있으면 누구든지 판매를 시작할 수 있으며 제품 홍보부터 구매까지 모든 과정이 SNS상에서 이루어진다 ( ㉢ ) 덕분에 초기 사업 비용이 거의들지 않는다는 장점이 있다. ( ㉣ ) 하지만 개별 사업자의 수가 무한하게 늘 수 있기 때문에 향후 경제 변화를 이끌 핵심 시장으로의 성장이 예상된다.']\", 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5fcdba03-5900-11ef-ba05-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "[['<보기>', '이와 같은 시장 형태가 전체 소비 시장에 미치는 영향력은 아직 미미하다.']]",
+                    "answers": [
+                        {
+                            "uuid": "5fcf533b-5900-11ef-92f6-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉠"
+                        },
+                        {
+                            "uuid": "5fd0e8d1-5900-11ef-a2cc-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉡"
+                        },
+                        {
+                            "uuid": "5fd283b6-5900-11ef-875f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉢"
+                        },
+                        {
+                            "uuid": "5fd41f3f-5900-11ef-867d-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "㉣"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5fd5b34c-5900-11ef-8035-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 위 글의 내용과 같은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5fd7445a-5900-11ef-8c43-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "1인 미디어 운영자는 이 시장의 운영에 참여할 수 없다."
+                        },
+                        {
+                            "uuid": "5fd8e152-5900-11ef-9c25-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "이 시장의 운영자들은 시장 경제에 부정적인 영향을 미친다."
+                        },
+                        {
+                            "uuid": "5fda6e9e-5900-11ef-85c9-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "1인 미디어 시청자는 방송을 보다가 제품을 구매할 수 있다."
+                        },
+                        {
+                            "uuid": "5fdc0b0e-5900-11ef-bd6d-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "이 시장을 처음 시작할 때는 충분한 자본 투자가 필수적이다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5fddc23a-5900-11ef-bf19-dc97ba88075b",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_16",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['올해 ‘자치경찰제’가 전국으로 확대될 예정이다. 자치경찰제는 지방자치 단체가 경찰의 운영 및 관리를 담당하도록 하는 제도를 말한다. <ins>이 제도가 실시되면 경찰이 지역 주민의 삶에 밀착돼 지역 특성에 맞는 다양한 서비 스를 주민들에게 제공할 수 있을 것으로 보인다.</ins> 그러나 제도적 취약점과 예측되는 부작용이 있을 수 있다. 무엇보다 현장에서의 혼선이 예상된다.제도에 따르면 자치경찰은 교통사고나 가정 폭력 조사 등 생활 안전 부분을 담당하고 국가 보안이나 전국 단위의 수사는 지금처럼 국가경찰이 맡는다.이처럼 경찰 조직이 이중 구조일 때 어려움을 겪는 것은 국민이 될 수 있다.영역 구분이 애매한 사건이 발생하면 자치경찰과 국가경찰이 함께 출동 하거나 사건을 서로 떠넘기다가 신속하고 치밀한 대응이 이뤄지지 않을 수 있기 때문이다. (  ) 치안의 질이 떨어진다면 새 제도의시행 의의가 퇴색될 수 있을 것이다.']\", 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "5fdf61a5-5900-11ef-83ea-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 위 글을 쓴 목적으로 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5fe0f28c-5900-11ef-bb47-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "제도 확대 시행의 의의를 강조하기 위해서"
+                        },
+                        {
+                            "uuid": "5fe2891e-5900-11ef-9f04-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "제도 시행의 구체적 방안을 제시하기 위해서"
+                        },
+                        {
+                            "uuid": "5fe41ef7-5900-11ef-8c36-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "제도의 취지와 주민 요구의 차이를 설명하기 위해서"
+                        },
+                        {
+                            "uuid": "5fe5aa56-5900-11ef-bf53-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "제도 시행 후 생길 수 있는 문제를 지적하기 위해서"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5fe74521-5900-11ef-b7ee-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " (  )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5fe8de8a-5900-11ef-8fef-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "경찰들의 업무 과다로"
+                        },
+                        {
+                            "uuid": "5fea7af9-5900-11ef-adc8-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "업무의 충돌과 혼선으로"
+                        },
+                        {
+                            "uuid": "5fec12bf-5900-11ef-8724-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "자치경찰의 배치 감소로"
+                        },
+                        {
+                            "uuid": "5fedabdc-5900-11ef-8ca6-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "제도의 단계적 시행으로"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5fef4c2f-5900-11ef-b053-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 밑줄 친 부분에 나타난 필자의 태도로 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5ff0dc34-5900-11ef-9ffa-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "자치경찰과 지역 주민의 관계 변화에 대해 예상하고 있다."
+                        },
+                        {
+                            "uuid": "5ff26dd1-5900-11ef-946d-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "자치경찰제가 주민에게 미칠 긍정적 영향을 기대하고 있다."
+                        },
+                        {
+                            "uuid": "5ff3f9a1-5900-11ef-af29-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "자치경찰제가 제공해야 할 서비스의 조건을 강조하고 있다."
+                        },
+                        {
+                            "uuid": "5ff58772-5900-11ef-a960-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "지역 친화적 서비스가 특정 지역에 쏠릴 것을 우려하고 있다."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

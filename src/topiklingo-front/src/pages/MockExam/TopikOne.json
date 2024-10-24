@@ -1,0 +1,12 @@
+{
+  "exams": [
+    {
+      "id": "typetest",
+      "title": "토픽 I 듣기"
+    },
+    {
+      "id": "topik-1-reading",
+      "title": "토픽 I 읽기"
+    }
+  ]
+}

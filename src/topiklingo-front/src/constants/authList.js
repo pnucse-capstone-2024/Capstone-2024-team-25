@@ -1,0 +1,3 @@
+const AUTH_LIST = ['ADMIN', 'CENTER', 'TEACHER', 'STUDENT', 'UNVERIFIED_USER'];
+
+export default AUTH_LIST;

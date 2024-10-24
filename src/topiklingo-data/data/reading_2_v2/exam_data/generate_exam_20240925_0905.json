@@ -1,0 +1,1675 @@
+﻿{
+    "uuid": "2b37ea4a-7ad4-11ef-a93e-e0d55eba17b3",
+    "title": "Generated_TESTN_TOPIK_2_READING",
+    "type": "TOPIK_2_READING",
+    "year": 2024,
+    "problems": [
+        {
+            "uuid": "2b397d10-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ (   )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_1",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2b3b11b6-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "나는 아침마다 (     ).",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2b3ca6e8-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "우유를 마시고"
+                        },
+                        {
+                            "uuid": "2b3e3b3e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "우유를 마시는 습관이 있다"
+                        },
+                        {
+                            "uuid": "2b3fc904-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "우유를 마시려면"
+                        },
+                        {
+                            "uuid": "2b415756-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "우유를 마신 적이"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2b42ec4c-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "학생들이 (     ) 교실에서 열심히 공부하고 있다.",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2b44816a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "모이는"
+                        },
+                        {
+                            "uuid": "2b460f1c-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "모여 있는"
+                        },
+                        {
+                            "uuid": "2b47a336-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "모여서"
+                        },
+                        {
+                            "uuid": "2b49387c-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "모여다"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2b4ace9e-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 밑줄 친 부분과 의미가 가장 비슷한 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_2",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2b4c6038-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "이번 주말에 소파를 <ins>새로 사려고</ins> 가구 매장을 방문할 계획이다.",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2b4df786-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "새로 사자마자"
+                        },
+                        {
+                            "uuid": "2b4f8b1e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "새로 사는 대신"
+                        },
+                        {
+                            "uuid": "2b5119e8-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "새로 사더라도"
+                        },
+                        {
+                            "uuid": "2b52ae02-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "새로 사기 위해"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2b54415e-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "새로운 소설이 곧 출간될 예정이라서, 책이 <ins>나올 모양이다.</ins>",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2b55d2e4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "나올 수 없다"
+                        },
+                        {
+                            "uuid": "2b576186-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "나올 것 같다"
+                        },
+                        {
+                            "uuid": "2b58efb0-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "나올 필요 없다"
+                        },
+                        {
+                            "uuid": "2b5a850a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "나올 줄 모른다"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2b5c1b54-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음은 무엇에 대한 글인지 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_3",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2b5db14e-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "https://topikkorea.s3.amazonaws.com/topik_image/36ae73e8-23ef-11ef-90fa-e5a43cd400fd.png",
+                    "answers": [
+                        {
+                            "uuid": "2b5f469e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "거래 문의"
+                        },
+                        {
+                            "uuid": "2b60d658-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "구매 방법"
+                        },
+                        {
+                            "uuid": "2b626a0e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "성분"
+                        },
+                        {
+                            "uuid": "2b63fffe-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "문제점"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2b659620-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "https://topikkorea.s3.amazonaws.com/topik_image/52932d7b-23ef-11ef-8cf4-e5a43cd400fd.png",
+                    "answers": [
+                        {
+                            "uuid": "2b672d0a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "팬이즘"
+                        },
+                        {
+                            "uuid": "2b68c250-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "세탁기"
+                        },
+                        {
+                            "uuid": "2b6a57aa-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "통화"
+                        },
+                        {
+                            "uuid": "2b6bed04-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "청소기"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2b6d7aa2-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "https://topikkorea.s3.amazonaws.com/topik_image/3fe8ec4c-23ef-11ef-ac14-e5a43cd400fd.png",
+                    "answers": [
+                        {
+                            "uuid": "2b6f0fb6-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "바람"
+                        },
+                        {
+                            "uuid": "2b70a3c6-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "세탁기"
+                        },
+                        {
+                            "uuid": "2b7237a4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "정보처리"
+                        },
+                        {
+                            "uuid": "2b73c51a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "냉장고"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2b7558f8-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "https://topikkorea.s3.amazonaws.com/topik_image/49518db9-23ef-11ef-8b43-e5a43cd400fd.png",
+                    "answers": [
+                        {
+                            "uuid": "2b76ef56-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "의원"
+                        },
+                        {
+                            "uuid": "2b78829e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "전시관"
+                        },
+                        {
+                            "uuid": "2b7a15b4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "학습관"
+                        },
+                        {
+                            "uuid": "2b7bab18-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "영사관"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2b7d414e-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_4",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2b7ed432-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "[['별은 우주에서 가장 매력적인 천체 중 하나로, 수천 년 동안 인류의 호기심을 자극해왔다. 별은 그 자체로 빛을 발하며, 다양한 크기와 색깔을 가진다. 별의 생애는 탄생, 성장, 그리고 죽음의 과정을 거치며, 이 과정에서 우주에 중요한 물질을 방출하기도 한다. 특히, 별은 항해와 시간 측정의 기준이 되어왔고, 현대 천문학에서도 별의 연구는 우주의 이해에 큰 기여를 하고 있다. 최근 연구에 따르면, 별의 분포와 성질이 은하의 형성과 진화에 중요한 역할을 한다고 한다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2b806b8a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "별은 우주에서 가장 매력적인 천체가 아니다."
+                        },
+                        {
+                            "uuid": "2b81fe82-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "별은 그 자체로 빛을 발하며 다양한 크기와 색깔을 가진다."
+                        },
+                        {
+                            "uuid": "2b8394a4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "별의 연구는 우주의 이해에 기여하지 않는다."
+                        },
+                        {
+                            "uuid": "2b85235a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "별은 일정한 크기와 색깔만 가진다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2b86b99a-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "[['경찰관은 범죄 예방과 시민의 안전을 위해 다양한 업무를 수행한다. 이들은 범죄 현장에서 증거를 수집하고, 용의자를 체포하며, 사건을 조사하는 역할을 맡고 있다. 또한, 경찰관은 지역 사회와의 소통을 통해 범죄 예방 활동을 강화하고, 주민들의 안전을 지키기 위해 노력하고 있다. 최근에는 경찰관의 역할이 단순한 범죄 단속을 넘어, 사회적 문제 해결에도 기여하고 있다는 평가를 받고 있다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2b884b34-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "경찰관은 범죄를 단속하는 것 외에 다른 역할이 없다."
+                        },
+                        {
+                            "uuid": "2b89e084-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "경찰관은 범죄 예방을 위해 지역 사회와 소통한다."
+                        },
+                        {
+                            "uuid": "2b8b75e8-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "경찰관은 범죄 현장에서 증거를 수집하지 않는다."
+                        },
+                        {
+                            "uuid": "2b8d04b2-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "경찰관은 사건 조사에 참여하지 않는다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2b8e99e4-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음 글 또는 그래프의 내용과 같은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_4",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2b9028b8-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "https://topikkorea.s3.amazonaws.com/topik_image/5c23f762-23ef-11ef-81fc-e5a43cd400fd.png",
+                    "answers": [
+                        {
+                            "uuid": "2b91c236-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "신문을 읽는 사람의 비율은 20대와 60대가 동일하다."
+                        },
+                        {
+                            "uuid": "2b935056-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "모든 연령층이 신문을 텔레비전보다 더 자주 이용한다."
+                        },
+                        {
+                            "uuid": "2b94e68c-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "신문을 읽는 사람들의 비율은 60대가 40대보다 적다."
+                        },
+                        {
+                            "uuid": "2b967aba-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "텔레비전을 시청하는 사람들 중 20대의 비율이 40대보다 크다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2b981046-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "IMAGE",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "https://topikkorea.s3.amazonaws.com/topik_image/816f157e-23ef-11ef-ba5b-e5a43cd400fd.png",
+                    "answers": [
+                        {
+                            "uuid": "2b99a140-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "용돈에서 물건 구매에 사용된 비율이 가장 적었다."
+                        },
+                        {
+                            "uuid": "2b9b3532-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "학원에 쓴 비용은 교통비보다 두 배 이상이었다."
+                        },
+                        {
+                            "uuid": "2b9cca78-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "대학생들은 용돈의 절반 이상을 음식 비용으로 사용했다."
+                        },
+                        {
+                            "uuid": "2b9e5fe6-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "대학생들은 교통비보다 문화생활비를 덜 지출했다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2b9ff5e0-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음을 순서에 맞게 배열한 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_5",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2ba1886a-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "[['(가) 이 상황은 갑작스러운 자연재해로 인해 발생한 것이다.', '(나) 최근에 예상치 못한 상황이 발생하여 모두가 당황했다.', '(다) 이후, 정부와 시민들이 협력하여 안전을 확보하기 위한 방안을 모색하고 있다.', '(라) 많은 사람들이 대처 방법을 논의하기 시작했고, 즉각적인 대응이 필요하다는 데 합의했다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2ba32490-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(라) - (가) - (다) - (나)"
+                        },
+                        {
+                            "uuid": "2ba4b9fe-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(다) - (라) - (나) - (가)"
+                        },
+                        {
+                            "uuid": "2ba64f12-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(가) - (나) - (라) - (다)"
+                        },
+                        {
+                            "uuid": "2ba7e476-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(나) - (가) - (라) - (다)"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2ba97a02-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['(가) 떡은 한국 전통 음식으로, 쌀가루를 주재료로 하여 다양한 형태와 맛으로 만들어진다.', '(나) 특히 명절이나 큰 행사 때에는 떡이 소중한 의미를 지니며, 가족과 함께 나누는 일이 많다.', '(다) 떡은 단순한 간식 이상의 역할을 하며, 사람들 사이의 정을 나누는 매개체가 되기도 한다.', '(라) 또한 최근에는 떡의 다양성과 현대적인 변형이 인기 있어, 새로운 맛의 떡도 많이 출시되고 있다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2bab0e1c-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(가) - (나) - (다) - (라)"
+                        },
+                        {
+                            "uuid": "2baca164-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(나) - (가) - (다) - (라)"
+                        },
+                        {
+                            "uuid": "2bae3588-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(나) - (다) - (가) - (라)"
+                        },
+                        {
+                            "uuid": "2bafcace-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(나) - (라) - (가) - (다)"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2bb15fc4-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['(가) 그러나 쇼핑을 할 때는 예산을 잘 관리하고 현명하게 선택하는 것이 필요하다.', '(나) 온라인 쇼핑이 대세가 되면서 편리함을 추구하는 소비자들이 증가하고 있다.', '(다) 사람들은 다양한 매장에서 상품을 구매하며, 이를 통해 필요한 물품을 얻는다.', '(라) 쇼핑은 현대 생활에서 중요한 활동 중 하나이다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2bb2fab4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(라) - (다) - (나) - (가)"
+                        },
+                        {
+                            "uuid": "2bb4900e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(다) - (라) - (나) - (가)"
+                        },
+                        {
+                            "uuid": "2bb62572-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(나) - (가) - (다) - (라)"
+                        },
+                        {
+                            "uuid": "2bb7b43c-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "(다) - (가) - (라) - (나)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2bb94a86-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ (   )에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_6",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2bbad9a0-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['카테고리는 특정 정보를 분류하거나 정리하는 데 도움을 주는 중요한 도구이다. 예를 들어, 온라인 쇼핑몰에서는 상품을 카테고리별로 나누어 소비자가 원하는 제품을 쉽게 찾을 수 있도록 한다. 또한, 도서관에서도 책을 주제별로 카테고리화하여 사용자들이 원하는 자료를 쉽게 접근할 수 있게 한다. 이처럼 카테고리는 (     ) 중요한 역할을 한다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2bbc7260-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "정보의 검색 효율성을 높이는 데 기여한다"
+                        },
+                        {
+                            "uuid": "2bbe0152-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "개인의 취향을 반영하는 데 도움을 준다"
+                        },
+                        {
+                            "uuid": "2bbf90bc-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "많은 정보를 혼란스럽게 만든다"
+                        },
+                        {
+                            "uuid": "2bc11f9a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "기존의 분류 체계를 유지하는 데만 쓰인다"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2bc2b51c-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['독서는 지식과 창의력을 키우는 중요한 방법 중 하나로, 사람들은 (     ) 더욱 풍부한 경험을 쌓을 수 있다. 소설, 에세이, 논픽션 등 다양한 형식의 글을 읽는 것은 사고의 폭을 넓혀주고, 개인의 성장에 기여한다. 또한 독서는 단순한 정보 습득을 넘어서 감정적인 공감도 가능하게 해준다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2bc44cd8-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "다양한 장르의 책을 통해 새로운 세계를 탐험하고"
+                        },
+                        {
+                            "uuid": "2bc5e07a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "시간을 효율적으로 관리하게 하고"
+                        },
+                        {
+                            "uuid": "2bc775fc-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "독서의 재미를 느끼게 해주고"
+                        },
+                        {
+                            "uuid": "2bc9084a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "지식의 중요성을 일깨워준다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2bca9c64-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "[['상점은 제품을 판매하는 장소로, 다양한 종류의 상품을 소비자에게 제공합니다. 사람들이 필요한 물건을 찾기 위해 자주 방문하며, 상점에서는 다양한 할인 행사나 프로모션을 통해 고객을 유치하려고 노력합니다. 특히, 상점의 분위기와 직원의 서비스 품질은 소비자에게 큰 영향을 미치는 요소 중 하나이다. 따라서 상점에서는 (     )하려고 다양한 노력을 기울인다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2bcc3394-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "가격 경쟁력을 유지"
+                        },
+                        {
+                            "uuid": "2bcdc8e4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "대량 구매를 유도"
+                        },
+                        {
+                            "uuid": "2bcf5da8-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "고객의 편안한 쇼핑 경험을 제공"
+                        },
+                        {
+                            "uuid": "2bd0f302-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "기획전을 진행"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2bd2887a-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "[['맥주는 세계에서 가장 오래된 음료 중 하나로, 전통적으로 곡물, 홉, 효모, 물로 만들어진다. 이 음료는 (     ) 자주 소비되며 여러 문화에서 중요한 역할을 한다. 또한, 다양한 맛과 종류가 있어 사람들이 취향에 맞는 맥주를 선택할 수 있다. 특히, 많은 사람들이 친구나 가족과 함께 즐기며 유대감을 느낀다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2bd420f4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "스포츠 경기 관람 시"
+                        },
+                        {
+                            "uuid": "2bd5b680-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "혼자 마시는"
+                        },
+                        {
+                            "uuid": "2bd74bd0-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "음료 대체제로"
+                        },
+                        {
+                            "uuid": "2bd8e120-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "사회적 상호작용을 위해"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2bda754e-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['정부는 사회의 안전과 복지를 보장하기 위해 다양한 정책을 수립하고 시행하는 기관이다. 각국의 정부는 (     ) 법과 제도를 통해 공공의 이익을 추구한다. 이를 위해 정부는 경제 성장, 교육, 건강 관리 등 여러 분야에서 적극적으로 개입하며, 국민의 목소리를 반영하기 위해 노력한다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2bdc0cec-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "국가의 발전과 국민의 삶의 질 향상에 기여하며"
+                        },
+                        {
+                            "uuid": "2bdd9ba2-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "정부의 권한을 남용하게 되고"
+                        },
+                        {
+                            "uuid": "2bdf2cec-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "정책의 일관성을 유지하지 못하게 한다."
+                        },
+                        {
+                            "uuid": "2be0c28c-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "특정 개인이나 집단에만 집중하여"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2be2584a-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "[['의자는 우리 생활에서 매우 중요한 가구 중 하나로, 편안한 자세를 유지하도록 돕는다. 다양한 디자인과 재질로 제작된 의자는 특정 장소의 분위기를 결정짓는 요소로 작용하기도 한다. 또한, 의자의 높이와 형태는 사용자의 편안함과 건강에 큰 영향을 미치기 때문에 (     )이 중요하다. 올바른 자세를 유지하는 데 도움이 되는 의자는 작업 효율성을 높이고, 피로감을 줄여준다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2be3ea16-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "가구의 가격을 높이는 것이"
+                        },
+                        {
+                            "uuid": "2be57d5e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "의사의 조언을 무시하는 것이"
+                        },
+                        {
+                            "uuid": "2be70c78-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "적절한 의자를 선택하는 것이"
+                        },
+                        {
+                            "uuid": "2be89b42-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "디자인을 간과하는 것이"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2bea289a-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "[['작은 것들은 종종 간과되지만, 그 안에는 큰 의미와 가치를 지니고 있다. 예를 들어, 작은 친절은 누군가의 하루를 밝게 만들 수 있으며, (     )는 삶에 큰 행복을 가져다준다. 따라서 일상 속에서 작은 것들을 소중히 여기며 감사하는 마음을 갖는 것이 중요하다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2bebb9da-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "건강하게 생활하는 방법"
+                        },
+                        {
+                            "uuid": "2bed4f7a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "소소한 즐거움을 발견하는 순간"
+                        },
+                        {
+                            "uuid": "2beedcdc-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "우정의 가치를 이해하는 방법"
+                        },
+                        {
+                            "uuid": "2bf06c1e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "일상에서의 스트레스를 줄이는 방법"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2bf1fade-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_7",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['훈련은 신체적, 정신적 (    ) 중요한 과정이다. 다양한 운동과 활동을 통해 근력, 지구력, 유연성을 기를 수 있다. 또한, 훈련은 목표 설정과 자기 관리 능력을 배양하는 데 도움을 준다. 팀 스포츠에서는 협동심과 소통 능력을 키울 수 있는 기회를 제공한다. 개인적인 훈련은 자기 발전과 성취감을 느끼게 해주며, 스트레스 해소에도 효과적이다. 결국, 훈련은 건강한 삶을 위한 필수 요소로 자리 잡고 있다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2bf38ca0-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "(  ) 에 들어갈 알맞은 말을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2bf51ade-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "퇴보에 있어"
+                        },
+                        {
+                            "uuid": "2bf6a5a2-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "발달에 있어"
+                        },
+                        {
+                            "uuid": "2bf8303e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "감소에 있어"
+                        },
+                        {
+                            "uuid": "2bf9bb20-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "소모에 있어"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2bfb4666-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "이 글의 내용과 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2bfcd7f6-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "훈련은 목표 설정과 자기 관리 능력을 배양하는 데 도움이 되지 않는다."
+                        },
+                        {
+                            "uuid": "2bfe6274-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "훈련은 신체적, 정신적 발달에 있어 중요한 과정이다."
+                        },
+                        {
+                            "uuid": "2bfff698-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "훈련은 건강한 삶을 위한 필수 요소로 자리 잡지 못했다."
+                        },
+                        {
+                            "uuid": "2c0184cc-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "훈련은 스트레스 해소에 전혀 효과적이지 않다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2c03180a-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_7",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['장례는 고인의 마지막 길을 배웅하는 중요한 의식이다. 가족과 친구들은 슬픔을 나누며 고인을 추모하는 (    ). 이 과정에서 각자의 기억과 이야기를 나누는 것이 큰 위안이 된다. 장례식은 종교적 또는 문화적 전통에 따라 다양한 형태로 진행될 수 있다. 예를 들어, 일부 문화에서는 화장을 선택하고, 다른 문화에서는 매장을 선호한다. 결국 장례는 고인을 기리며 남은 이들이 서로의 슬픔을 나누는 소중한 순간이 된다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2c04aaf8-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "(  ) 에 들어갈 알맞은 말을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2c063878-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "사진을 찍는다"
+                        },
+                        {
+                            "uuid": "2c07cc42-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "시간을 갖는다"
+                        },
+                        {
+                            "uuid": "2c095a3a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "음악을 연주한다"
+                        },
+                        {
+                            "uuid": "2c0ae882-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "음식을 준비한다"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c0c7800-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "이 글의 내용과 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2c0e0878-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "장례식은 고인을 기리기 위한 다양한 의식이 포함된다."
+                        },
+                        {
+                            "uuid": "2c0f967a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "장례식은 고인의 유품을 정리하는 과정이다."
+                        },
+                        {
+                            "uuid": "2c1124ae-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "장례식은 고인의 재산을 분배하는 절차이다."
+                        },
+                        {
+                            "uuid": "2c12b4c2-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "장례식은 고인의 생애를 기념하는 중요한 행사이다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2c144792-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_8",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['주말 저녁, 친구들과의 약속이 있었다. 해가 저물고 어둠이 깔리기 시작하자 마음속에서 불안한 그림자가 흘러났다. 그들과의 만남은 소중하지만, 늘 그 뒤에 남는 기분이 괜히 싫었다. 도착하자마자 웃음소리가 들려왔고, 모두의 얼굴이 밝았다. 하지만 나는 그 순간에도 <ins>저 멀리 감싸고 있던 불안함을 떨칠 수가 없었다.</ins> 목소리도 높아지고, 서로의 이야기에 귀를 기울였지만, 안개처럼 스며드는 걱정이 잊히지 않았다. 저녁이 깊어질수록 존재감이 더욱 커지는 내 마음의 그늘이 느껴졌다. 술잔을 부딪치며 웃음꽃을 피웠지만, 나를 감싸는 그 감정은 쉽게 사라지지 않았다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2c15d80a-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "밑줄 친 부분에 나타난 ‘나’의 심정으로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2c17690e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "행복한"
+                        },
+                        {
+                            "uuid": "2c18f832-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "안정된"
+                        },
+                        {
+                            "uuid": "2c1a8ec2-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "편안한"
+                        },
+                        {
+                            "uuid": "2c1c1daa-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "불안한"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c1db11a-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "윗글의 내용과 같은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2c1f4426-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "친구들과의 만남은 항상 즐거운 시간이었다."
+                        },
+                        {
+                            "uuid": "2c20db42-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "나는 친구들과의 약속을 기대하며 설레는 마음으로 집을 나섰다."
+                        },
+                        {
+                            "uuid": "2c2270ce-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "주말 저녁, 친구들과의 만남에서 웃음소리가 가득했지만 마음속의 불안함은 여전했다."
+                        },
+                        {
+                            "uuid": "2c240628-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "저녁 식사 후 우리는 함께 영화를 보러 갔다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2c259a74-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_9",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2c272b1e-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['올해 최고의 영화, 관객들의 마음을 사로잡다']]",
+                    "answers": [
+                        {
+                            "uuid": "2c28c15e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "올해 개봉한 영화들이 관객들에게 큰 호평을 받고 있다."
+                        },
+                        {
+                            "uuid": "2c2a564a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "영화 산업의 변화가 관객 수에 영향을 미치고 있다."
+                        },
+                        {
+                            "uuid": "2c2be5aa-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "영화 제작비가 증가하면서 제작사들이 어려움을 겪고 있다."
+                        },
+                        {
+                            "uuid": "2c2d7b0e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "올해 개봉한 영화 중 일부는 흥행에 실패했다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c2f1072-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['여행업계, 코로나19 이후 회복세 본격화']]",
+                    "answers": [
+                        {
+                            "uuid": "2c30a694-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "여행업계가 코로나19 팬데믹 이후 점차 회복세를 보이고 있다."
+                        },
+                        {
+                            "uuid": "2c323b58-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "여행업계는 여전히 많은 어려움에 직면해 있다."
+                        },
+                        {
+                            "uuid": "2c33d0da-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "여행업계는 새로운 규제를 도입할 계획이다."
+                        },
+                        {
+                            "uuid": "2c35663e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "코로나19로 인해 여행객 수가 급감했다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c36fbf2-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "[['사라진 편지, 잃어버린 기억을 되찾다']]",
+                    "answers": [
+                        {
+                            "uuid": "2c389458-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "편지는 현대 사회에서 점점 사라져가고 있다."
+                        },
+                        {
+                            "uuid": "2c3a29e4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "편지를 쓰는 사람보다 받는 사람이 더 많아졌다."
+                        },
+                        {
+                            "uuid": "2c3bbf5c-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "오랜 시간 잊혀졌던 편지가 발견되면서 과거의 기억들이 되살아났다."
+                        },
+                        {
+                            "uuid": "2c3d4e30-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "편지의 형식이 디지털로 변화하고 있다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2c3ee34e-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 글의 내용과 같은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_10",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2c40792a-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "[['동사무소는 주민들이 다양한 행정 서비스를 이용할 수 있는 중요한 기관이다. 주민등록, 인감증명, 각종 민원 처리 등 여러 업무를 담당하고 있다. 또한, 동사무소에서는 지역 주민들의 의견을 수렴하여 지역 발전을 위한 다양한 프로그램도 운영한다. 이러한 기능 덕분에 동사무소는 지역 사회의 중심 역할을 하고 있다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2c42115e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "동사무소는 민원을 처리하지 않는 기관이다."
+                        },
+                        {
+                            "uuid": "2c43a514-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "동사무소는 지역 주민들의 의견을 무시하고 운영된다."
+                        },
+                        {
+                            "uuid": "2c453762-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "인감증명 등의 행정 서비스를 제공한다."
+                        },
+                        {
+                            "uuid": "2c46ccd0-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "동사무소는 주민등록, 인감증명 등의 행정 서비스를 제공한다."
+                        },
+                        {
+                            "uuid": "2c486270-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "동사무소는 주민들에게 제공하는 서비스가 없다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c49f81a-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['＇달콤＇은 일반적으로 맛이나 향을 설명하는 단어로, 주로 설탕이나 꿀과 같은 당분이 포함된 음식에서 느껴지는 맛이다. 달콤한 맛은 종종 즐거움과 행복감을 불러일으키며, 디저트나 과일에서 자주 발견된다. 또한, 달콤한 향기는 사람들에게 편안함과 따뜻함을 줄 수 있어 향수나 캔들에서도 많이 사용된다. 그러나 과도한 달콤함은 건강에 해로울 수 있으므로 적절한 섭취가 중요하다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2c4b9008-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "달콤한 맛은 즐거움과 행복감을 불러일으킨다."
+                        },
+                        {
+                            "uuid": "2c4d1eb4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "달콤한 맛은 주로 신선한 채소에서 느껴진다."
+                        },
+                        {
+                            "uuid": "2c4eb40e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "달콤한 향기는 사람들에게 불안감을 줄 수 있다."
+                        },
+                        {
+                            "uuid": "2c504968-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "과일은 달콤한 맛이 전혀 없다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c51ded6-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "[['문화는 한 사회의 가치, 신념, 관습, 예술, 그리고 언어 등을 포함하는 복합적인 개념이다. 각 문화는 고유한 특징을 지니며, 세대를 거쳐 전달되고 변화해 간다. 문화는 사람들 간의 소통과 이해에 중요한 역할을 하며, 다양한 문화가 공존하는 사회에서는 상호 존중과 협력이 필요하다. 또한, 문화는 개인의 정체성을 형성하는 데 중요한 요소로 작용하며, 다양한 문화적 경험은 개인의 시각을 넓히는 데 기여한다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2c5378b8-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "문화는 개인의 정체성을 형성하는 데 중요하지 않다."
+                        },
+                        {
+                            "uuid": "2c550e12-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "모든 문화는 동일한 가치를 지닌다."
+                        },
+                        {
+                            "uuid": "2c56a344-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "문화는 사람들 간의 소통에 영향을 미치지 않는다."
+                        },
+                        {
+                            "uuid": "2c583862-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "문화는 세대를 거쳐 전달되고 변화해 간다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2c59cea2-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_11",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2c5b64ba-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['의약품은 질병을 예방하고 치료하는 데 중요한 역할을 하는 화학 물질 또는 생물학적 제제이다. 현대 의학에서 의약품은 다양한 형태로 제공되며, 경구 복용, 주사, 외용제 등 여러 방법으로 사용된다. 의약품의 개발 과정은 긴 연구와 임상 시험을 필요로 하며, 안전성과 효능이 입증된 후에야 시장에 출시된다. 그러나 의약품의 사용에는 부작용이나 약물 상호작용의 위험이 존재하므로, 의사의 처방이나 지침을 따르는 것이 필수적이다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2c5cfc9e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "의약품 사용에는 부작용의 위험이 있다."
+                        },
+                        {
+                            "uuid": "2c5e91da-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "의약품은 질병 예방에만 사용된다."
+                        },
+                        {
+                            "uuid": "2c60272a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "의약품의 개발 과정은 짧고 간단하다."
+                        },
+                        {
+                            "uuid": "2c61bc8e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "의약품은 모두 자연에서 유래한다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c635044-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "[['과학 실험은 이론을 실제로 확인하고 이해하는 데 중요한 역할을 한다. 다양한 실험을 통해 학생들은 과학적 원리를 직접 경험하고, 문제 해결 능력을 키울 수 있다. 실험은 또한 창의성과 비판적 사고를 증진시키며, 협력적인 학습 환경을 조성하는 데 기여한다. 따라서 실험을 통해 얻은 경험은 이론적 지식뿐만 아니라 실제 적용 능력까지 향상시키는 데 큰 도움이 된다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2c64e882-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "학생들이 협력하여 실험을 수행하는 것이 중요하다."
+                        },
+                        {
+                            "uuid": "2c667de6-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "창의적 사고를 증진시키기 위한 실험 설계가 필요하다."
+                        },
+                        {
+                            "uuid": "2c68137c-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "실험을 통해 과학 이론을 검증하는 방법을 알아야 한다."
+                        },
+                        {
+                            "uuid": "2c69a8fe-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "실험을 통해 문제 해결 능력을 개발해야 한다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c6b3e9e-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "[['유산은 개인이나 가족이 후세에 물려주는 중요한 자산으로, 물질적인 것뿐만 아니라 문화적, 정서적 가치가 포함된다. 유산을 잘 관리하고 보존하는 것은 다음 세대에게 긍정적인 영향을 미칠 수 있으며, 그들이 자신들의 뿌리를 이해하고 자긍심을 가질 수 있도록 도와준다. 또한, 유산의 보존은 지역사회와 국가의 정체성을 형성하는 데도 중요한 역할을 한다. 따라서 유산을 보호하고 계승하는 노력이 필요하다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2c6cd7f4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "유산을 관리하는 것은 개인의 자긍심을 높인다."
+                        },
+                        {
+                            "uuid": "2c6e6ccc-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "유산에는 물질적 가치만 포함된다."
+                        },
+                        {
+                            "uuid": "2c700230-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "유산은 후세에 물려주는 중요한 자산이다."
+                        },
+                        {
+                            "uuid": "2c719780-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "유산의 보존은 지역사회의 정체성을 형성하는 데 필요 없다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c732d0c-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['꽃은 자연의 아름다움을 대표하는 존재로, 다양한 색상과 형태로 우리의 시각을 즐겁게 한다. 꽃은 단순한 장식이 아닌, 생태계에서 중요한 역할을 하며, 곤충과 새를 유인하여 수분을 도와준다. 또한 꽃은 사람들에게 감정적인 의미를 전달하고, 기념일이나 특별한 순간을 축하하는 데 사용된다. 따라서 꽃은 자연과 인간의 삶에서 떼려야 뗄 수 없는 소중한 존재라 할 수 있다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2c74c536-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "꽃은 생태계에서 중요한 역할을 한다."
+                        },
+                        {
+                            "uuid": "2c765414-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "꽃은 자연의 아름다움을 대표한다."
+                        },
+                        {
+                            "uuid": "2c77e6d0-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "꽃은 단순한 장식에 불과하다."
+                        },
+                        {
+                            "uuid": "2c797bda-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "꽃은 감정적인 의미를 전달하는 역할도 한다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2c7b0b26-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 주어진 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_12",
+            "EType": "TEXT",
+            "example": "{'conversation': None, 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2c7c9e3c-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['그러나 과도한 음주나 불편한 분위기가 조성될 경우, 오히려 부정적인 영향을 미칠 수 있다.'], ['회식은 직장 내 동료들과의 유대감을 높이는 중요한 문화이다. (㉠) 일반적으로 회식은 업무가 끝난 후 진행되며, 식사와 음료를 함께 나누는 시간이다. (㉡) 이러한 자리에서는 일상적인 업무 대화뿐만 아니라 개인적인 이야기도 나누며 친목을 다질 수 있다. (㉢) 또한 회식은 팀워크를 강화하고, 서로의 이해도를 높이는 데 기여한다. (㉣) 따라서 회식은 즐겁고 의미 있는 시간으로 만들기 위한 배려와 노력이 필요하다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2c7e354e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉠"
+                        },
+                        {
+                            "uuid": "2c7fcae4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉡"
+                        },
+                        {
+                            "uuid": "2c815eea-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉢"
+                        },
+                        {
+                            "uuid": "2c82f1f6-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉣"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c848660-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['사람들은 특별한 순간이나 감정을 기록하기 위해 카메라를 들고 나선다.'], ['사진은 순간을 영원히 간직할 수 있는 방법이다. (㉠) 사진을 통해 우리는 과거의 기억을 되새기고, 소중한 사람들과의 이야기를 나눌 수 있다. (㉡) 또한, 사진은 예술적인 표현의 수단이 되어 많은 사람에게 감동을 준다. (㉢) 현대에는 디지털 기술의 발달로 누구나 쉽게 사진을 찍고 공유할 수 있는 시대가 되었다. (㉣) 결국, 사진은 우리 삶의 다양한 순간을 기록하며 의미를 더해주는 중요한 역할을 한다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2c861d68-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉠"
+                        },
+                        {
+                            "uuid": "2c87acaa-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉡"
+                        },
+                        {
+                            "uuid": "2c894240-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉢"
+                        },
+                        {
+                            "uuid": "2c8ad7d6-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉣"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c8c6d44-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "[['또한, 풀밭은 성인들에게는 휴식과 사색의 공간이 되어 주어, 일상의 스트레스를 잊게 해준다.'], ['푸른 풀밭은 자연의 품속에서 가장 평화로운 공간 중 하나이다. (㉠) 여름의 햇살 아래, 풀밭은 온갖 생명체가 어우러져 살아가는 생태계의 중심지로 기능한다. (㉡) 아이들은 그곳에서 뛰어놀며 자연과의 교감을 통해 순수한 즐거움을 느낀다. (㉢) 바람에 흔들리는 풀들이 만들어내는 소리는 마음을 안정시키고, 자연의 리듬을 느끼게 한다. (㉣) 결국, 풀밭은 단순한 땅이 아니라, 우리의 삶을 풍요롭게 해주는 소중한 장소임을 알 수 있다.']]",
+                    "answers": [
+                        {
+                            "uuid": "2c8e0316-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉠"
+                        },
+                        {
+                            "uuid": "2c8f97c6-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉡"
+                        },
+                        {
+                            "uuid": "2c912be0-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉢"
+                        },
+                        {
+                            "uuid": "2c92be7e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "㉣"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2c9454dc-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_13",
+            "EType": "TEXT",
+            "example": "{'conversation': '[\\'은정과 민수는 오랜 친구였다. 어느 날, 은정은 일이 끝난 후 민수를 찾았다. \"민수야, 나랑 좀 이야기할 수 있을까?\" 은정은 걱정스러운 얼굴을 했다. 민수는 조금 의아해하며 대답했다. \"무슨 일이야, 은정?\"  은정은 고민하다가 결국 입을 열었다. \"오늘 네가 다른 친구들과 떠드는 걸 보았어.\" 민수는 놀란 표정을 지으며 말했다. \"그게 무슨 문제야? 그냥 친구들과 수다 떨었던 것뿐인데.\" 분위기가 점점 얼어붙어 갔다.   은정은 조금 침울해지며 말했다. \"<ins>그런데 나는 네가 나를 싫어하는 걸로 오해했었어.</ins>\" 민수는 심호흡을 하고 은정의 눈을 바라보았다. \"은정아, 그런 건 아니야. 너는 내 가장 소중한 친구이니까.\" 심리적 압박에서 풀린 은정은 미소를 지었다. \"정말?\" 민수는 고개를 끄덕였다. \"너와의 우정은 내가 가장 중요하게 생각하는 것이야.\"\\']', 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2c95ecca-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "밑줄 친 부분에 나타난 ‘은정’의 심정으로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 1,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2c9783dc-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "불안한"
+                        },
+                        {
+                            "uuid": "2c991936-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "짜증스러운"
+                        },
+                        {
+                            "uuid": "2c9aa832-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "무관심한"
+                        },
+                        {
+                            "uuid": "2c9c3dc8-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "행복한"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2c9dd39a-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "윗글의 내용으로 알 수 있는 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2c9f66b0-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "민수는 은정에게 다른 친구들과의 대화가 재미있었다고 말했다."
+                        },
+                        {
+                            "uuid": "2ca0fc3c-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "민수는 은정의 걱정을 무시하고 계속 웃었다."
+                        },
+                        {
+                            "uuid": "2ca28df4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "은정은 민수에게 그날의 일을 잊어버리라고 했다."
+                        },
+                        {
+                            "uuid": "2ca42204-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "은정은 민수에게 자신의 감정을 솔직하게 털어놓았다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2ca5b7f4-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_14",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['발은 인간의 이동을 가능하게 하는 중요한 신체 부위로, 다양한 기능을 수행한다. 발은 걷기, 뛰기, 그리고 균형을 유지하는 데 필수적인 역할을 한다. 또한, 발의 구조는 뼈, 관절, 인대, 그리고 근육으로 이루어져 있어 복잡한 움직임을 지원한다. 발의 건강은 전반적인 신체 건강과 밀접한 관련이 있으며, 적절한 관리가 필요하다. (     ) 발은 상징적인 의미를 지니기도 하며, 특정한 의식이나 전통에서 중요한 역할을 한다. 결국, 발은 단순한 이동 수단을 넘어 우리의 삶에 깊은 영향을 미치는 중요한 요소임에 틀림없다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2ca74f42-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "(   ) 에 들어갈 가장 알맞은 말을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2ca8e514-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "따라서"
+                        },
+                        {
+                            "uuid": "2caa7a64-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "반면에"
+                        },
+                        {
+                            "uuid": "2cac0faa-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "이와 같이"
+                        },
+                        {
+                            "uuid": "2cada270-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "예를 들어"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2caf37ca-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "윗 글의 주제로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 3,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2cb0d026-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "발의 구조는 뼈, 관절, 인대, 근육으로 이루어져 있다."
+                        },
+                        {
+                            "uuid": "2cb265a8-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "발의 건강은 전반적인 신체 건강과 밀접한 관련이 있다."
+                        },
+                        {
+                            "uuid": "2cb3fb66-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "발은 이동 수단을 넘어 삶에 깊은 영향을 미친다."
+                        },
+                        {
+                            "uuid": "2cb590d4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "발은 걷기, 뛰기, 균형 유지에 필수적인 역할을 한다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2cb7273c-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_15",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['알레르기는 현대 사회에서 점점 더 많은 사람들에게 영향을 미치는 문제로, 그 원인과 관리 방법에 대한 이해가 필요하다. 첫째, 알레르기의 주요 원인은 환경 요인으로, 공기 중의 오염물질이나 식품 첨가물 등이 이에 해당한다. 둘째, 유전적 요인도 중요한 역할을 하여 가족력이 있는 경우 알레르기 질환에 걸릴 확률이 높아진다. 이처럼 다양한 원인으로 인해 알레르기 환자가 증가하고 있는 만큼, 이에 대한 적극적인 연구와 예방책이 요구된다.   셋째, 알레르기 증상은 경미한 것부터 심각한 것까지 다양하게 나타날 수 있으며, 이는 환자의 삶의 질에 큰 영향을 미친다. 넷째, 알레르기 관리에는 개인의 생활 습관 변화, 약물 치료, 환경 청결 유지 등이 포함된다. 따라서, 알레르기 예방을 위해서는 개인적인 노력뿐만 아니라 사회적 차원의 대응도 필요하다. 마지막으로, 알레르기의 위험과 관리 방법에 대한 교육이 이루어진다면, 보다 많은 사람들이 이 문제를 효과적으로 대처할 수 있을 것이다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2cb8bf3e-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2cba57c2-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "알레르기 관리에는 개인의 노력만으로 충분하다고 믿고 있다."
+                        },
+                        {
+                            "uuid": "2cbbed1c-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "알레르기의 원인은 단순히 유전적 요인에 국한된다고 주장하고 있다."
+                        },
+                        {
+                            "uuid": "2cbd82a8-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "알레르기 증상은 경미한 것만으로도 큰 문제라고 주장하고 있다."
+                        },
+                        {
+                            "uuid": "2cbf1726-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "알레르기 문제에 대한 연구와 예방책의 필요성을 강조하고 있다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2cc0aab4-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "윗글의 내용과 같은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 4,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2cc23c4e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "알레르기는 오직 환경 요인에만 의해 발생한다."
+                        },
+                        {
+                            "uuid": "2cc3d1d0-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "알레르기 증상은 항상 심각하게 나타난다."
+                        },
+                        {
+                            "uuid": "2cc56720-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "알레르기 예방은 개인의 노력만으로 충분하다."
+                        },
+                        {
+                            "uuid": "2cc6fc7a-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "알레르기는 환경 요인과 유전적 요인으로 인해 증가하고 있으며, 관리와 예방을 위한 노력이 필요하다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "2cc892d8-7ad4-11ef-a93e-e0d55eba17b3",
+            "problem": "※ 다음을 읽고 물음에 답하십시오.",
+            "PType": "READING_2_PROBLEM_TYPE_16",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['북극은 지구의 가장 극한 환경 중 하나로, 아름다운 얼음과 눈으로 덮인 경관을 자랑한다. 그러나 북극은 단순한 자연의 경관 이상의 의미를 지닌다. 이곳은 다양한 생물종의 서식지이며, 특히 북극곰, 바다표범, 그리고 다양한 해양 생물이 이 지역의 생태계를 구성하고 있다. 북극의 생태계는 매우 섬세하며, 이곳의 환경 변화는 전 세계적으로 큰 영향을 미친다.  최근 기후 변화로 인해 북극의 (  ) 있으며, 이는 해수면 상승과 기후 패턴의 변화를 초래하고 있다. 이러한 변화는 북극 지역의 원주율들이 생존에 큰 위협을 받고 있음을 의미한다. 북극의 얼음이 줄어들면서 그곳의 생물 다양성이 감소하고 있으며, 이는 생태계의 균형을 파괴하는 결과를 초래할 수 있다.   또한 북극은 전 세계의 기후 조절에 중요한 역할을 한다. 북극의 얼음은 태양의 열을 반사하는 역할을 하여 지구의 온도를 유지하는 데 기여하고 있다. 그러나 얼음이 녹으면 지구의 온도가 더욱 상승하고, 이는 기후 변화의 악순환을 초래할 수 있다.   북극 지역의 보호는 단순히 그곳의 생물들을 지키는 것을 넘어, 인류 전체의 미래와 직결되어 있다. 우리는 북극의 중요성을 인식하고, 이를 보호하기 위한 노력을 기울여야 한다. 국제사회는 북극의 생태계를 보존하기 위해 협력하고, 지속 가능한 개발 방안을 모색해야 한다.   결국, 북극은 우리의 지구 생태계에서 필수적인 역할을 하는 지역이며, 이를 보호하는 것은 우리의 책임이다. 북극의 아름다움과 생명력을 지키는 것은 단순한 선택이 아닌, 인류의 생존을 위한 필수적인 행동임을 잊지 말아야 한다.']\", 'answers': None, 'selected': None}",
+            "questions": [
+                {
+                    "uuid": "2cca2bde-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "윗 글을 쓴 목적으로 가장 알맞은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2ccbc390-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "북극의 생물종 다양성을 나열하려고"
+                        },
+                        {
+                            "uuid": "2ccd58fe-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "북극의 생태계 보호의 중요성을 강조하려고"
+                        },
+                        {
+                            "uuid": "2cceee62-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "북극의 기후 변화에 대한 과학적 데이터를 제시하려고"
+                        },
+                        {
+                            "uuid": "2cd083ee-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "북극의 아름다운 경관을 홍보하려고"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2cd21970-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "(  ) 에 들어갈 가장 알맞은 말을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2cd3b0b4-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "관광 산업이 활성화되고"
+                        },
+                        {
+                            "uuid": "2cd54640-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "생태계가 파괴되고"
+                        },
+                        {
+                            "uuid": "2cd6dbe0-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "생물 다양성이 증가하고"
+                        },
+                        {
+                            "uuid": "2cd86eec-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "자원 개발이 증가하고"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "2cd9fde8-7ad4-11ef-a93e-e0d55eba17b3",
+                    "QEType": "TEXT",
+                    "questionProblem": "윗 글의 내용과 같은 것을 고르십시오.",
+                    "score": 2,
+                    "rightAnswer": 2,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "2cdb9716-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "북극의 얼음은 태양의 열을 반사하여 지구의 온도를 유지하는 데 기여하고 있다."
+                        },
+                        {
+                            "uuid": "2cdd2964-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "북극은 다양한 생물종의 서식지로, 북극곰과 바다표범이 이 지역의 생태계를 구성하고 있다."
+                        },
+                        {
+                            "uuid": "2cdebd60-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "북극은 단순한 관광지로, 많은 사람들이 여름철에만 방문하는 지역이다."
+                        },
+                        {
+                            "uuid": "2ce0509e-7ad4-11ef-a93e-e0d55eba17b3",
+                            "AType": "TEXT",
+                            "answer": "북극은 지구의 가장 따뜻한 지역으로, 기후 변화와는 무관한 곳이다."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
