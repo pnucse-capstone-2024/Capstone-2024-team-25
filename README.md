@@ -15,7 +15,7 @@
 ## 2. 상세설계
 
 ### 2.1 시스템 구성도
-![시스템 구성도](path_to_system_architecture_image)
+![시스템구성도](https://github.com/user-attachments/assets/516fa289-4cfe-45c5-9ebd-064dac136c12)
 
 ### 2.2 사용 기술
 - **Frontend**: React.js (Vite, Tailwind CSS)
