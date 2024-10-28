@@ -1,0 +1,998 @@
+﻿{
+    "uuid": "541534fe-5900-11ef-a331-dc97ba88075b",
+    "title": "2018_0_TOPIK_1_LISTENING",
+    "type": "TOPIK_1_LISTENING",
+    "year": 2018,
+    "problems": [
+        {
+            "uuid": "5416bfed-5900-11ef-9aa1-dc97ba88075b",
+            "problem": "※ 다음을 듣고 <보기>와 같이 물음에 맞는 대답을 고르십시오.",
+            "PType": "LISTEN_1_PROBLEM_TYPE_1",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['가 : 공책이에요?', '나  :_____________________________']\", 'answers': ['네, 공책이에요.', '네, 공책이 커요.', '아니요, 공책을 봐요.', '아니요, 공책이 많아요.'], 'selected': 1.0}",
+            "questions": [
+                {
+                    "uuid": "541863ab-5900-11ef-aa3e-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 4,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5419f728-5900-11ef-8998-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "네, 사과가 없어요."
+                        },
+                        {
+                            "uuid": "541b88da-5900-11ef-9515-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "네, 사과가 맛있어요."
+                        },
+                        {
+                            "uuid": "541d14b6-5900-11ef-9e74-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "아니요, 사과가 비싸요."
+                        },
+                        {
+                            "uuid": "541eaf4d-5900-11ef-8294-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "아니요, 사과가 좋아요."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "542046ea-5900-11ef-a9c8-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 4,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5421e05b-5900-11ef-90f3-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "네, 학교가 작아요."
+                        },
+                        {
+                            "uuid": "54237b12-5900-11ef-a73a-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "네, 학교가 아니에요."
+                        },
+                        {
+                            "uuid": "54250c7a-5900-11ef-9833-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "아니요, 학교에 안 가요."
+                        },
+                        {
+                            "uuid": "5426a660-5900-11ef-a121-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "아니요, 학교에 있어요."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54284d67-5900-11ef-acf2-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5429dc0c-5900-11ef-aacd-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "조금 샀어요."
+                        },
+                        {
+                            "uuid": "542b7142-5900-11ef-8039-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "친구가 샀어요."
+                        },
+                        {
+                            "uuid": "542d0c4c-5900-11ef-b838-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "한 시에 샀어요."
+                        },
+                        {
+                            "uuid": "542ea752-5900-11ef-bba6-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "시장에서 샀어요."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5430425b-5900-11ef-ab95-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5431dd5d-5900-11ef-8475-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "자주 해요."
+                        },
+                        {
+                            "uuid": "5433785f-5900-11ef-a1c6-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "편지를 써요."
+                        },
+                        {
+                            "uuid": "5435164b-5900-11ef-894c-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "내일 만나요."
+                        },
+                        {
+                            "uuid": "5436b113-5900-11ef-9a64-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "정말 좋아해요."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "54387cdb-5900-11ef-95b3-dc97ba88075b",
+            "problem": "※ 다음을 듣고 <보기>와 같이 이어지는 말을 고르십시오.",
+            "PType": "LISTEN_1_PROBLEM_TYPE_2",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['가 : 맛있게 드세요.', '나   :_____________________________']\", 'answers': ['좋겠습니다.', '모르겠습니다.', '잘 먹겠습니다.', '처음 뵙겠습니다.'], 'selected': 1.0}",
+            "questions": [
+                {
+                    "uuid": "543a17c4-5900-11ef-ac71-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 4,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "543bb27e-5900-11ef-8ab3-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "미안해요."
+                        },
+                        {
+                            "uuid": "543d4e22-5900-11ef-8de8-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "고마워요."
+                        },
+                        {
+                            "uuid": "543ee275-5900-11ef-be43-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "반가워요."
+                        },
+                        {
+                            "uuid": "54407d47-5900-11ef-a7fe-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "괜찮아요."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54421819-5900-11ef-b987-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5443ac61-5900-11ef-8e3c-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "잘 지냈어요."
+                        },
+                        {
+                            "uuid": "5445386a-5900-11ef-a4da-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "어서 오세요."
+                        },
+                        {
+                            "uuid": "5446c53d-5900-11ef-9f6b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "네, 안녕히 계세요."
+                        },
+                        {
+                            "uuid": "544852ee-5900-11ef-b8b5-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "네, 오랜만이에요."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "544a0a6d-5900-11ef-8fae-dc97ba88075b",
+            "problem": "※ 여기는 어디입니까? <보기>와 같이 알맞은 것을 고르십시오.",
+            "PType": "LISTEN_1_PROBLEM_TYPE_3",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['가 : 어디가 아프세요?', '나 : 배가 아파요.']\", 'answers': ['공항', '빵집', '병원', '호텔'], 'selected': 1.0}",
+            "questions": [
+                {
+                    "uuid": "544bb58e-5900-11ef-ac97-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "544d4560-5900-11ef-b01b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "꽃집"
+                        },
+                        {
+                            "uuid": "544ef409-5900-11ef-a6d1-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "식당"
+                        },
+                        {
+                            "uuid": "54508adf-5900-11ef-a990-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "우체국"
+                        },
+                        {
+                            "uuid": "5452277f-5900-11ef-a194-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "백화점"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5453c2dc-5900-11ef-9b96-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54555db4-5900-11ef-948a-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "시장"
+                        },
+                        {
+                            "uuid": "5456f422-5900-11ef-b57b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "약국"
+                        },
+                        {
+                            "uuid": "54588e2d-5900-11ef-8833-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "도서관"
+                        },
+                        {
+                            "uuid": "545a2927-5900-11ef-b4ed-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여행사"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "545bc3f7-5900-11ef-9ac1-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "545d625a-5900-11ef-9a51-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "은행"
+                        },
+                        {
+                            "uuid": "545efd73-5900-11ef-b411-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "교실"
+                        },
+                        {
+                            "uuid": "54609879-5900-11ef-be4c-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "극장"
+                        },
+                        {
+                            "uuid": "54623531-5900-11ef-b9ad-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "공원"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5463d3fc-5900-11ef-88bc-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 4,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54656efb-5900-11ef-abfb-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "정류장"
+                        },
+                        {
+                            "uuid": "54670a19-5900-11ef-b8ea-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "미술관"
+                        },
+                        {
+                            "uuid": "5468a530-5900-11ef-b432-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "운동장"
+                        },
+                        {
+                            "uuid": "546a402c-5900-11ef-b959-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "박물관"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "546c0602-5900-11ef-803b-dc97ba88075b",
+            "problem": "※ 다음은 무엇에 대해 말하고 있습니까? <보기>와 같이 알맞은 것을 고르십시오.",
+            "PType": "LISTEN_1_PROBLEM_TYPE_3",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['가 : 몇 살이에요?', '나 : 스무 살이에요.']\", 'answers': ['나이', '선물', '요일', '주소'], 'selected': 1.0}",
+            "questions": [
+                {
+                    "uuid": "546da0fa-5900-11ef-bf07-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "546f3c79-5900-11ef-ae21-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "일"
+                        },
+                        {
+                            "uuid": "5470d7f4-5900-11ef-ac0a-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "집"
+                        },
+                        {
+                            "uuid": "5472634b-5900-11ef-b170-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "시간"
+                        },
+                        {
+                            "uuid": "5473fdf6-5900-11ef-b1a9-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "가족"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54759315-5900-11ef-852e-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54772de7-5900-11ef-a05e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "취미"
+                        },
+                        {
+                            "uuid": "5478b9e6-5900-11ef-9150-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "이름"
+                        },
+                        {
+                            "uuid": "547a5496-5900-11ef-973c-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "음식"
+                        },
+                        {
+                            "uuid": "547be570-5900-11ef-84bd-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "장소"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "547d7a3d-5900-11ef-bf4c-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 4,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "547f09e8-5900-11ef-80e4-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "위치"
+                        },
+                        {
+                            "uuid": "54809721-5900-11ef-8dba-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "휴일"
+                        },
+                        {
+                            "uuid": "54822225-5900-11ef-a9f3-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "날씨"
+                        },
+                        {
+                            "uuid": "5483bcd9-5900-11ef-8133-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "수업"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54855363-5900-11ef-8421-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5486ee11-5900-11ef-bd23-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "건강"
+                        },
+                        {
+                            "uuid": "548882c1-5900-11ef-9bea-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "직업"
+                        },
+                        {
+                            "uuid": "548a173b-5900-11ef-9e8b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "고향"
+                        },
+                        {
+                            "uuid": "548babcf-5900-11ef-97a4-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "교통"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "548d76ae-5900-11ef-b170-dc97ba88075b",
+            "problem": "※ 다음 대화를 듣고 알맞은 그림을 고르십시오.",
+            "PType": "LISTEN_1_PROBLEM_TYPE_4",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "548f118b-5900-11ef-8ccb-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 4,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "5490ae7c-5900-11ef-91b2-dc97ba88075b",
+                            "AType": "IMAGE",
+                            "answer": null
+                        },
+                        {
+                            "uuid": "549331aa-5900-11ef-899b-dc97ba88075b",
+                            "AType": "IMAGE",
+                            "answer": null
+                        },
+                        {
+                            "uuid": "5495558f-5900-11ef-81fc-dc97ba88075b",
+                            "AType": "IMAGE",
+                            "answer": null
+                        },
+                        {
+                            "uuid": "54976d14-5900-11ef-a654-dc97ba88075b",
+                            "AType": "IMAGE",
+                            "answer": null
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5499a5fc-5900-11ef-b60c-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 4,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "549b442e-5900-11ef-88cb-dc97ba88075b",
+                            "AType": "IMAGE",
+                            "answer": null
+                        },
+                        {
+                            "uuid": "549e31ab-5900-11ef-b2c4-dc97ba88075b",
+                            "AType": "IMAGE",
+                            "answer": null
+                        },
+                        {
+                            "uuid": "54a079e5-5900-11ef-b192-dc97ba88075b",
+                            "AType": "IMAGE",
+                            "answer": null
+                        },
+                        {
+                            "uuid": "54a340f2-5900-11ef-84aa-dc97ba88075b",
+                            "AType": "IMAGE",
+                            "answer": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "54a650f0-5900-11ef-8573-dc97ba88075b",
+            "problem": "※ 다음을 듣고 <보기>와 같이 대화 내용과 같은 것을 고르십시오.",
+            "PType": "LISTEN_1_PROBLEM_TYPE_5",
+            "EType": "TEXT",
+            "example": "{'conversation': \"['남자 : 요즘 한국어를 공부해요?', '여자 : 네. 한국 친구한테서 한국어를 배워요.']\", 'answers': ['남자는 학생입니다.', '여자는 학교에 다닙니다.', '남자는 한국어를 가르칩니다.', '여자는 한국어를 공부합니다.'], 'selected': 1.0}",
+            "questions": [
+                {
+                    "uuid": "54a7e7cf-5900-11ef-8a84-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54a9829f-5900-11ef-80fb-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 요리를 잘합니다."
+                        },
+                        {
+                            "uuid": "54ab14c2-5900-11ef-88bd-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 요리를 자주 합니다."
+                        },
+                        {
+                            "uuid": "54acaf81-5900-11ef-b405-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 요즘 밥을 잘 못 먹습니다."
+                        },
+                        {
+                            "uuid": "54ae3b73-5900-11ef-943f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 보통 집에서 저녁을 먹습니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54afced0-5900-11ef-9ca9-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54b16d35-5900-11ef-8d94-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 옷을 입어 봤습니다."
+                        },
+                        {
+                            "uuid": "54b2f7ba-5900-11ef-8912-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 삼만 원을 받았습니다."
+                        },
+                        {
+                            "uuid": "54b49279-5900-11ef-a2cc-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 티셔츠를 사려고 합니다."
+                        },
+                        {
+                            "uuid": "54b62d3b-5900-11ef-9dcd-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 남자에게 선물을 합니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54b7c7e4-5900-11ef-a5c4-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54b96288-5900-11ef-a934-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 오늘 집에서 쉽니다."
+                        },
+                        {
+                            "uuid": "54baf32e-5900-11ef-bba8-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 어제 많이 아팠습니다."
+                        },
+                        {
+                            "uuid": "54bc8573-5900-11ef-80c5-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 오늘 몸이 안 좋습니다."
+                        },
+                        {
+                            "uuid": "54be1f12-5900-11ef-b3eb-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 어제 학교에 안 갔습니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54bfc12c-5900-11ef-9d69-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54c14ee1-5900-11ef-8423-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 회의에 못 갑니다."
+                        },
+                        {
+                            "uuid": "54c2e991-5900-11ef-9574-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 회의를 늦게 할 겁니다."
+                        },
+                        {
+                            "uuid": "54c48447-5900-11ef-905a-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 지금부터 회의 준비를 합니다."
+                        },
+                        {
+                            "uuid": "54c61eef-5900-11ef-974b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 남자와 같이 회의를 할 겁니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54c7c805-5900-11ef-8559-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54c9584c-5900-11ef-a1f6-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 그림을 배우고 있습니다."
+                        },
+                        {
+                            "uuid": "54caef1b-5900-11ef-ac47-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 요즘 미술관에 자주 갑니다."
+                        },
+                        {
+                            "uuid": "54cc8aa4-5900-11ef-9865-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 그림 보는 것을 좋아합니다."
+                        },
+                        {
+                            "uuid": "54ce1780-5900-11ef-8f86-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 지금 미술관에 가고 있습니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "54d0003d-5900-11ef-bb02-dc97ba88075b",
+            "problem": "※ 다음을 듣고 여자의 중심 생각을 고르십시오.",
+            "PType": "LISTEN_1_PROBLEM_TYPE_5",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "54d19acf-5900-11ef-91b3-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54d3358f-5900-11ef-9535-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "운전 연습을 많이 해야 합니다."
+                        },
+                        {
+                            "uuid": "54d4d04e-5900-11ef-9fc2-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "피곤할 때는 운전을 하면 안 됩니다."
+                        },
+                        {
+                            "uuid": "54d66b55-5900-11ef-9212-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "지하철로 회사에 가는 것이 더 좋습니다."
+                        },
+                        {
+                            "uuid": "54d7f6b9-5900-11ef-91b3-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "회사에서 지하철역이 가까워서 좋습니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54d98911-5900-11ef-8158-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54db18ca-5900-11ef-84cf-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "창문 쪽에 앉고 싶습니다."
+                        },
+                        {
+                            "uuid": "54dcb2ec-5900-11ef-a90f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "밖에서 먹는 것이 좋습니다."
+                        },
+                        {
+                            "uuid": "54de3d18-5900-11ef-aea3-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "기다리지 않고 바로 먹고 싶습니다."
+                        },
+                        {
+                            "uuid": "54dfd5f9-5900-11ef-b709-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "사람이 적은 식당에 가는 것이 좋습니다."
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54e16753-5900-11ef-9e65-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": "",
+                    "score": 3,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54e3008c-5900-11ef-a053-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "혼자 여행을 가고 싶습니다."
+                        },
+                        {
+                            "uuid": "54e498b7-5900-11ef-9c12-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여행 계획을 세우기 어렵습니다."
+                        },
+                        {
+                            "uuid": "54e62c93-5900-11ef-91ed-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "오랫동안 여행을 하는 것이 좋습니다."
+                        },
+                        {
+                            "uuid": "54e7c773-5900-11ef-9cef-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "계획을 세우고 여행을 가면 좋겠습니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "54e98757-5900-11ef-a26b-dc97ba88075b",
+            "problem": "※ 다음을 듣고 물음에 답하십시오.",
+            "PType": "LISTEN_1_PROBLEM_TYPE_6",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "54eb1bca-5900-11ef-a5dc-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 여자가 왜 이 이야기를 하고 있는지 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 2.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54eca8fc-5900-11ef-8458-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "신청 방법을 말해 주려고"
+                        },
+                        {
+                            "uuid": "54ee43ab-5900-11ef-b7a5-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "행사 장소를 알려 주려고"
+                        },
+                        {
+                            "uuid": "54efde63-5900-11ef-b33c-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "행사 날짜를 정하고 싶어서"
+                        },
+                        {
+                            "uuid": "54f1791c-5900-11ef-a818-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "더 많은 신청을 받고 싶어서"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "54f313bb-5900-11ef-bff7-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 들은 내용과 같은 것을 고르십시오.",
+                    "score": 4,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54f4ad58-5900-11ef-8b65-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "금요일에 행사 신청을 받습니다."
+                        },
+                        {
+                            "uuid": "54f641d2-5900-11ef-b78b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "공연은 이번 주에 볼 수 있습니다."
+                        },
+                        {
+                            "uuid": "54f7cfcb-5900-11ef-b3d2-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "학생회관에서 동아리 발표회를 합니다."
+                        },
+                        {
+                            "uuid": "54f96ad0-5900-11ef-a212-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "작년보다 발표를 신청한 동아리가 많습니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "54fb410d-5900-11ef-b4e7-dc97ba88075b",
+            "problem": "※ 다음을 듣고 물음에 답하십시오.",
+            "PType": "LISTEN_1_PROBLEM_TYPE_6",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "54fcdbf7-5900-11ef-bb2a-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 두 사람이 무엇에 대해 이야기를 하고 있는지 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 3.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "54fe7ad2-5900-11ef-9670-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "인기 있는 운동"
+                        },
+                        {
+                            "uuid": "550005f9-5900-11ef-bc55-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "운동을 하는 이유"
+                        },
+                        {
+                            "uuid": "5501a0f0-5900-11ef-8240-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "인터넷 수업의 좋은 점"
+                        },
+                        {
+                            "uuid": "55033f8a-5900-11ef-9d97-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "인터넷으로 많이 하는 일"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "5504d55a-5900-11ef-bb00-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 들은 내용과 같은 것을 고르십시오.",
+                    "score": 4,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "55066842-5900-11ef-a997-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 요가를 배우고 있습니다."
+                        },
+                        {
+                            "uuid": "5507f6cb-5900-11ef-9459-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 운동을 열심히 하고 있습니다."
+                        },
+                        {
+                            "uuid": "55099186-5900-11ef-a97e-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "여자는 남자와 같이 운동을 할 겁니다."
+                        },
+                        {
+                            "uuid": "550b2bb9-5900-11ef-a7a0-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 여자에게 운동을 소개했습니다."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "550cfe13-5900-11ef-869d-dc97ba88075b",
+            "problem": "※ 다음을 듣고 물음에 답하십시오.",
+            "PType": "LISTEN_1_PROBLEM_TYPE_7",
+            "EType": "TEXT",
+            "example": "{'conversation': nan, 'answers': None, 'selected': nan}",
+            "questions": [
+                {
+                    "uuid": "550e919c-5900-11ef-ab6c-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 남자가 이 책을 쓴 이유를 고르십시오.",
+                    "score": 3,
+                    "rightAnswer": 4.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "55102217-5900-11ef-97de-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "글을 쓰는 것을 좋아해서"
+                        },
+                        {
+                            "uuid": "5511c0f0-5900-11ef-b6ad-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "특별한 이야기를 쓰고 싶어서"
+                        },
+                        {
+                            "uuid": "55134cb9-5900-11ef-b6e0-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "한국 문화에 대한 책이 인기가 있어서"
+                        },
+                        {
+                            "uuid": "5514e7df-5900-11ef-a61f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "한국 사람의 생활 모습을 소개하고 싶어서"
+                        }
+                    ]
+                },
+                {
+                    "uuid": "551682e2-5900-11ef-8c45-dc97ba88075b",
+                    "QEType": "TEXT",
+                    "questionProblem": " 들은 내용과 같은 것을 고르십시오.",
+                    "score": 4,
+                    "rightAnswer": 1.0,
+                    "example": "",
+                    "answers": [
+                        {
+                            "uuid": "55181de9-5900-11ef-8deb-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 호텔에서 일을 한 적이 있습니다."
+                        },
+                        {
+                            "uuid": "5519ba23-5900-11ef-a37b-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 외국 사람에게 질문을 많이 했습니다."
+                        },
+                        {
+                            "uuid": "551b4576-5900-11ef-bdd3-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 외국인을 위한 책을 여러 권 썼습니다."
+                        },
+                        {
+                            "uuid": "551ce06c-5900-11ef-b93f-dc97ba88075b",
+                            "AType": "TEXT",
+                            "answer": "남자는 앞으로 외국 문화에 대한 책을 쓸 겁니다."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
