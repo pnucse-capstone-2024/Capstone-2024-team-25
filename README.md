@@ -61,7 +61,7 @@
 5. 현재 학생 계정은 하루에 3번 시도가능하게 되어있습니다.
 
 ## 4. 소개 및 시연 영상
-시연 영상 링크(YouTube): [https://www.youtube.com/watch?v=1234567890](https://www.youtube.com/watch?v=1234567890)
+시연 영상 링크(YouTube): https://youtu.be/05qNdIFWcAY?si=8D0q2vDBVYPN-LLR
 
 ## 5. 팀 소개
 - 김범수
